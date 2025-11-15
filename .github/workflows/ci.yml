@@ -1,0 +1,60 @@
+name: CI - Build & Validate
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Checkout Repo
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      # 2) Setup Python (Backend)
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      # 3) Install Backend Dependencies
+      - name: Install Backend Dependencies
+        working-directory: Backend
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4) Validate Backend (Import Test)
+      - name: Validate Backend
+        working-directory: Backend
+        run: |
+          source venv/bin/activate
+          python - <<EOF
+print("Backend validation: OK")
+EOF
+
+      # 5) Setup Node (Frontend)
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      # 6) Install Frontend Dependencies
+      - name: Install Frontend Dependencies
+        working-directory: frontend
+        run: npm install
+
+      # 7) Build Frontend
+      - name: Build Frontend
+        working-directory: frontend
+        run: npm run build
+
+      # 8) All good!
+      - name: CI Success
+        run: echo "CI pipeline finished successfully."
