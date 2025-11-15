@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Identity Lookup Platform - Dark Theme Design System */
+
+@layer base {
+  :root {
+    /* Dark theme base colors */
+    --background: 222 47% 5%;
+    --background-secondary: 220 39% 11%;
+    --background-tertiary: 217 33% 17%;
+    --foreground: 210 40% 98%;
+    --foreground-muted: 215 20% 65%;
+    --foreground-subtle: 215 16% 47%;
+
+    /* Cards and surfaces */
+    --card: 220 39% 11%;
+    --card-foreground: 210 40% 98%;
+    --card-hover: 217 33% 17%;
+
+    /* Popovers and overlays */
+    --popover: 222 47% 5%;
+    --popover-foreground: 210 40% 98%;
+
+    /* Primary accent - Blue */
+    --primary: 217 91% 60%;
+    --primary-hover: 217 91% 65%;
+    --primary-foreground: 222 47% 5%;
+    --primary-muted: 217 91% 60% / 0.1;
+
+    /* Secondary accent - Green */
+    --secondary: 142 76% 36%;
+    --secondary-hover: 142 76% 41%;
+    --secondary-foreground: 210 40% 98%;
+    --secondary-muted: 142 76% 36% / 0.1;
+
+    /* Muted backgrounds */
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+    --muted-hover: 220 39% 11%;
+
+    /* Accent colors */
+    --accent: 217 33% 17%;
+    --accent-foreground: 210 40% 98%;
+    --accent-hover: 220 39% 11%;
+
+    /* Destructive */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    /* Borders and inputs */
+    --border: 217 33% 17%;
+    --border-hover: 215 20% 25%;
+    --input: 217 33% 17%;
+    --input-focus: 217 91% 60%;
+    --ring: 217 91% 60%;
+
+    /* Radius */
+    --radius: 0.75rem;
+
+    /* Sidebar */
+    --sidebar-background: 222 47% 5%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-primary: 217 91% 60%;
+    --sidebar-primary-foreground: 222 47% 5%;
+    --sidebar-accent: 217 33% 17%;
+    --sidebar-accent-foreground: 210 40% 98%;
+    --sidebar-border: 217 33% 17%;
+    --sidebar-ring: 217 91% 60%;
+
+    /* Custom semantic tokens */
+    --nav-background: 222 47% 5% / 0.9;
+    --nav-border: 217 33% 17%;
+    --panel-background: 220 39% 11%;
+    --panel-border: 217 33% 17%;
+    --hover-overlay: 217 91% 60% / 0.1;
+    --success: 142 76% 36%;
+    --warning: 38 92% 50%;
+    --info: 217 91% 60%;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%), hsl(217 91% 65%));
+    --gradient-secondary: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 76% 41%));
+    --gradient-background: linear-gradient(180deg, hsl(222 47% 5%), hsl(220 39% 11%));
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px hsl(222 47% 5% / 0.1);
+    --shadow-md: 0 4px 6px hsl(222 47% 5% / 0.15);
+    --shadow-lg: 0 10px 15px hsl(222 47% 5% / 0.2);
+    --shadow-primary: 0 4px 14px hsl(217 91% 60% / 0.25);
+
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-fast: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: hsl(var(--background));
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--muted));
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--accent));
+  }
+}

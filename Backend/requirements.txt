@@ -1,0 +1,11 @@
+opencv-python
+numpy
+tqdm
+requests
+scikit-learn
+insightface
+onnxruntime
+pillow
+python-multipart
+fastapi
+uvicorn

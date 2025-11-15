@@ -1,0 +1,5483 @@
+[
+  {
+    "id": "1",
+    "urn": "urn:li:person:1",
+    "localizedFirstName": "Manogna",
+    "localizedLastName": "Addanki",
+    "localizedHeadline": "CSE Core Student - Woxsen University '26 | Computer Science and Engineering",
+    "publicProfileUrl": "https://linkedin.com/in/manogna-addanki-38b938255",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHUbi2BszgY3g/profile-displayphoto-shrink_800_800/B56ZS2oCwIHwAc-/0/1738230739803?e=1763596800&v=beta&t=dMysU1P-Yq4AUavGIKiRv8x_8yjoEkaAxbX7BtZ_jEI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "2",
+    "urn": "urn:li:person:2",
+    "localizedFirstName": "Alam",
+    "localizedLastName": "Vamsidhara Reddy",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/alam-vamsidhara-reddy-308a28252",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEeKDrXyWyecw/profile-displayphoto-shrink_800_800/B4DZUnC7BnGcAo-/0/1740116833274?e=1763596800&v=beta&t=QeaqHyPCrYLojKoeItfiDGHvKsXfU4gQwwb1SBsCeIA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3",
+    "urn": "urn:li:person:3",
+    "localizedFirstName": "Ummadi",
+    "localizedLastName": "Raghuram Reddy",
+    "localizedHeadline": "Student at woxsen university",
+    "publicProfileUrl": "https://linkedin.com/in/ummadi-raghuram-reddy-83419b264",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHzanvMsabMZA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674932712398?e=1763596800&v=beta&t=sb_sb8R_J4GF-uCT37rVk1UTmyo3PhYJc88Ztr08u30"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4",
+    "urn": "urn:li:person:4",
+    "localizedFirstName": "Madhav ",
+    "localizedLastName": "Medicherla",
+    "localizedHeadline": "Vice President - AI/ML Tech CoE Head at Deloitte",
+    "publicProfileUrl": "https://linkedin.com/in/madhavmedicherla",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHsvq2oo4IwPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708332986681?e=1764806400&v=beta&t=a0mYnWiMqz8RMDbg5WloyjXTm2mn5DXNitHmCHZbNWI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "5",
+    "urn": "urn:li:person:5",
+    "localizedFirstName": "Anay",
+    "localizedLastName": "Samarth",
+    "localizedHeadline": "Woxsen University | Ecole Supérieure d'Ingénieurs Léonard de Vinci",
+    "publicProfileUrl": "https://linkedin.com/in/anay-samarth",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQG9kEp4Gwf8pw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668185934232?e=1763596800&v=beta&t=oLYtOqnzNJ6H6-uutJ1Sy8USYv61TWKi2GgCWJz8XmA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "6",
+    "urn": "urn:li:person:6",
+    "localizedFirstName": "Druthi ",
+    "localizedLastName": "Varma",
+    "localizedHeadline": "B.Tech CSE | Woxsen University | Former Research Intern @ IIT",
+    "publicProfileUrl": "https://linkedin.com/in/druthi-varma-b48b00250",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHHv6woZnH5xA/profile-displayphoto-crop_800_800/B56ZjRr4TqHUAI-/0/1755864599160?e=1763596800&v=beta&t=nLE7yuiUGKHEKLZ_H5dgA_wwR41MnBIHraxRHRHcmOg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7",
+    "urn": "urn:li:person:7",
+    "localizedFirstName": "Bhavyasri",
+    "localizedLastName": "Khambampati ",
+    "localizedHeadline": "Attended Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/bhavyasri-khambampati-89668225a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFCfzrSvaqdqQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707825270853?e=1763596800&v=beta&t=bPIcd3R3pGwk3IVAH4rPepJuDIFY4VP9u6dvcCh43fs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "8",
+    "urn": "urn:li:person:8",
+    "localizedFirstName": "anish",
+    "localizedLastName": "ningala",
+    "localizedHeadline": "Studying BTech",
+    "publicProfileUrl": "https://linkedin.com/in/anish-ningala-a161241a3",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFHsa2VCW5Ddw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706538207894?e=1763596800&v=beta&t=0kI78R598otNop99vnjOPGEJcqwYbT3mPBAM2oIu1UE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "9",
+    "urn": "urn:li:person:9",
+    "localizedFirstName": "Revanth",
+    "localizedLastName": "Kumar",
+    "localizedHeadline": "B.Tech (Computer Science & Engineering) Student | Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/revanth-kumar-7b815225a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH3aoTCme6TVQ/profile-displayphoto-shrink_800_800/B4DZQMrMkvHcAc-/0/1735379438802?e=1763596800&v=beta&t=i7v8_o23M1YXskzioORResOj65FwPTafLnVRAWqUlkc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "10",
+    "urn": "urn:li:person:10",
+    "localizedFirstName": "Varenya",
+    "localizedLastName": "Varma Panmesta",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/varenya-varma-penmetsa",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGCPRE5xXtNlw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728909886574?e=1763596800&v=beta&t=p6pKG9ERhZD3sJ3VvZ7phHv8ZF-7ugxj8gcnQIC8lEo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "11",
+    "urn": "urn:li:person:11",
+    "localizedFirstName": "Aditya",
+    "localizedLastName": "Yadav",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/aditya-yadav-88993725a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQE9G2rJmSaFpg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725375750551?e=1763596800&v=beta&t=wPu25knCv4gt8J16tDE6UDUfQq8ocFnNg4x4hdmkh60"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "12",
+    "urn": "urn:li:person:12",
+    "localizedFirstName": "Latha",
+    "localizedLastName": "Indrani Busireddy",
+    "localizedHeadline": "B.Tech (Computer Science & Engineering) Student | Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/lathaindranibusireddy",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGzrbiLCDlbZQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1673704519511?e=1764806400&v=beta&t=02AqTZn3Kla_Vt601WNhutR4lMnbDFSFJ1eULnrJ3hI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "13",
+    "urn": "urn:li:person:13",
+    "localizedFirstName": "Sankeerth",
+    "localizedLastName": "C",
+    "localizedHeadline": "Woxsen university ",
+    "publicProfileUrl": "https://linkedin.com/in/sankeerth-c-3aa55721a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEdGGA04XiymA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693291682838?e=1763596800&v=beta&t=EWhbtacgnF37HuiULsAhBt-8i4p3a-Pkbwkz1TUsEQA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "14",
+    "urn": "urn:li:person:14",
+    "localizedFirstName": "Sameeksha",
+    "localizedLastName": "Vadisherla",
+    "localizedHeadline": "Undergraduate at Woxsen University | Data Science | B.Tech'28",
+    "publicProfileUrl": "https://linkedin.com/in/sameeksha-vadisherla-a641a2249",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHtTNt4UW_Rug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729324685780?e=1763596800&v=beta&t=joCmCKOx6LIMprFe-dtjIvM6qc8sYiQc2WlAks2ifkA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "15",
+    "urn": "urn:li:person:15",
+    "localizedFirstName": "Dhruval",
+    "localizedLastName": "Padia",
+    "localizedHeadline": "BTech 26' - Computer Science - Obsessed with All Things Tech",
+    "publicProfileUrl": "https://linkedin.com/in/dhruvalpadia",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGJR63ovBXDkg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725904196223?e=1763596800&v=beta&t=dAFwK5PnRzKc6arnDGnOHeo67ucoYabRyohiVbZB01Q"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "16",
+    "urn": "urn:li:person:16",
+    "localizedFirstName": "Dipalika",
+    "localizedLastName": "Behera",
+    "localizedHeadline": "Frontend Developer | UI/UX Enthusiast | CS Undergrad | Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/dipalika-behera-2989a4260",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHubMkoiYSK3g/profile-displayphoto-shrink_800_800/B56ZbFB49xGsAg-/0/1747062331206?e=1763596800&v=beta&t=5sbSH7uY0EUjYZeHfgdMHYKLp2bt5JhbhqC4s5g3CLQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "17",
+    "urn": "urn:li:person:17",
+    "localizedFirstName": "Hemanth ",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Computer Science Student at Woxsen University | Passionate About Software Development & Machine Learning | Actively Building Real-World Projects",
+    "publicProfileUrl": "https://linkedin.com/in/dwarampudi-hemanth",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEi4jskv9gyXQ/profile-displayphoto-shrink_800_800/B4DZU8Nzm.G8Ac-/0/1740472008448?e=1763596800&v=beta&t=pFbGXBFHkG4ovgoWAu9yxhUbeFhYoiYcQGsA_nYlDro"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "18",
+    "urn": "urn:li:person:18",
+    "localizedFirstName": "Saketh ",
+    "localizedLastName": "Eliknati",
+    "localizedHeadline": "B.Tech (CSE) | Federated Learning | ML | Python | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/saketh-elikanti",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "19",
+    "urn": "urn:li:person:19",
+    "localizedFirstName": "Harshith",
+    "localizedLastName": "chatterjee",
+    "localizedHeadline": "Intern at MoEngage || DevOps || AWS Cloud || Jenkins || terraform || shell scripting || Linux || Docker",
+    "publicProfileUrl": "https://linkedin.com/in/harshit-chatterjee",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQE9tBWFSraAIg/profile-displayphoto-crop_800_800/B4DZlYlwFYJUAM-/0/1758127917668?e=1763596800&v=beta&t=bCnNYaJAl1OreGXRUkWALPjulMmoN54IOeUjwneZzAs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "20",
+    "urn": "urn:li:person:20",
+    "localizedFirstName": "Vikhyat",
+    "localizedLastName": "Ilavajhalla",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/vikhyat-ilavajhalla-104100249",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEwk7VdfHwj5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706702571642?e=1763596800&v=beta&t=gc4m0IAWHjWjx29WmdVZrQW4Fe5vtYNCNtpxBc8aDAw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "21",
+    "urn": "urn:li:person:21",
+    "localizedFirstName": "Iniyan",
+    "localizedLastName": "S",
+    "localizedHeadline": "Student at Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/iniyan-s-1b3906247",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFi1tB3WZ88Bw/profile-displayphoto-shrink_800_800/B56ZUmrYs7GQAc-/0/1740110663466?e=1763596800&v=beta&t=8aYi1mXtNN7_piAKoBn6YBRN1p4YOII3Yo87BiHRJoo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "22",
+    "urn": "urn:li:person:22",
+    "localizedFirstName": "Deepthamsh",
+    "localizedLastName": "janagoam",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/deepthamsh-janagoam-a2515025a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHmG0RC6l6KSQ/profile-displayphoto-shrink_400_400/B4DZPGSoupHMAg-/0/1734198595037?e=1763596800&v=beta&t=2syDXSRyqq_UHhWfDJ9ofTVebIeyk86IHxobIvDkBHA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "23",
+    "urn": "urn:li:person:23",
+    "localizedFirstName": "Prashanth",
+    "localizedLastName": "Kumar",
+    "localizedHeadline": "Associate Professor || Head of Department || DST SERB Fellow || Program Director || Co-Chairperson of Centre of Excellence for Advanced Energy Systems || Senior Member IEEE || IEEE PES HAC Ambassador",
+    "publicProfileUrl": "https://linkedin.com/in/dr-prashant-kumar-7a4b27246",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQH8g3CiWTOq7g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731562898177?e=1763596800&v=beta&t=PwGWePardoEiywtZCqVq-8wAxQFo2j1So0svHleuoGw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "24",
+    "urn": "urn:li:person:24",
+    "localizedFirstName": "Pradeep",
+    "localizedLastName": "Rajgopal",
+    "localizedHeadline": "Director at Centific\n",
+    "publicProfileUrl": "https://linkedin.com/in/pradeeprajagopal",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQF3ANTldICkYA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726548685213?e=1763596800&v=beta&t=OyNzdjwRsDmma4-7ffYs8QANCXEPCwPj5OSU_-qnSzE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "25",
+    "urn": "urn:li:person:25",
+    "localizedFirstName": "Harika",
+    "localizedLastName": "Yerramsetty",
+    "localizedHeadline": "BBA | Exchange Student at University of Bradford | Digital Marketing | President - Street Cause Woxsen | Rotaract Club Executive | Animal Welfare Club Executive |\n",
+    "publicProfileUrl": "https://linkedin.com/in/harika-yerramsetty",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEW6ZtHxwX4uw/profile-displayphoto-shrink_800_800/B4DZbJXeMRHsAc-/0/1747135097609?e=1763596800&v=beta&t=5cMtokrY5s7PlV2mnlNcA4dLGhWlHQwisBZNBQU335M"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "26",
+    "urn": "urn:li:person:26",
+    "localizedFirstName": "Venkat",
+    "localizedLastName": "Rangapuram",
+    "localizedHeadline": "CEO & Cofounder at Centific",
+    "publicProfileUrl": "https://linkedin.com/in/venkat-rangapuram-7a858a34",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "27",
+    "urn": "urn:li:person:27",
+    "localizedFirstName": "Sai",
+    "localizedLastName": "Aryan Soma",
+    "localizedHeadline": "Final Year B.Tech Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sai-aryan-soma-97a653351",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEYByfh_Vn6aQ/profile-displayphoto-shrink_800_800/B56ZUSjzGVHsAc-/0/1739773131168?e=1763596800&v=beta&t=Om18cjuqeUWaDBFjOuBrw66s6pykU2rfZTMHgmFcaHg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "28",
+    "urn": "urn:li:person:28",
+    "localizedFirstName": "Pep",
+    "localizedLastName": "Lluis Esteva",
+    "localizedHeadline": "Exec. Dean Tech. School | Woxsen Univ | Blockchain & DeFi Specialist | Fellow University College London (UCL)\n",
+    "publicProfileUrl": "https://linkedin.com/in/peplluis",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQESW2CqYBiAuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729447894661?e=1763596800&v=beta&t=zrjPOSeRtHJ6jzzMHrpnGIrnyL16VyBnifUzaKLbA1M"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "29",
+    "urn": "urn:li:person:29",
+    "localizedFirstName": "Raul",
+    "localizedLastName": "villamarinrodriguez",
+    "localizedHeadline": "VP @ Woxsen University | Board Member | Cognitive Technologist | Behavioural Engineer",
+    "publicProfileUrl": "https://linkedin.com/in/raulvillamarinrodriguez",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH5ToNOIOyl3w/profile-displayphoto-shrink_800_800/B4DZXwPJ7RG4Ac-/0/1743492261016?e=1763596800&v=beta&t=xhB_04TLIAjD5GeNU5cXsUWl1fLmEnWYeMlfD_PbxXY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "30",
+    "urn": "urn:li:person:30",
+    "localizedFirstName": "Uma \n",
+    "localizedLastName": "Ananda Dagnino González",
+    "localizedHeadline": "Vice Chancellor @ Woxsen University | International Relations | Migration studies | Arts and Eastern Philosophies",
+    "publicProfileUrl": "https://linkedin.com/in/management-languages-projects",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEmHWpsc28HBQ/profile-displayphoto-crop_800_800/B4EZmHYGbqKQAI-/0/1758912866696?e=1763596800&v=beta&t=vk9wO9DpfH6NGrCp_kfkFZtp_mE-w9URBtQak-R7aqI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "31",
+    "urn": "urn:li:person:31",
+    "localizedFirstName": "Alam",
+    "localizedLastName": "Harish Kumar Reddy",
+    "localizedHeadline": "Senior Engineer MDM\n",
+    "publicProfileUrl": "https://linkedin.com/in/alam-harish-kumar-reddy-857391186",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFCUMCWIYkdhg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731238282226?e=1763596800&v=beta&t=Lcsxv7OMA5hOoCTe66ce2vir1YE4KepteXCXLoDTaVw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "32",
+    "urn": "urn:li:person:32",
+    "localizedFirstName": "Satya",
+    "localizedLastName": "Nadella",
+    "localizedHeadline": "Chairman and CEO at Microsoft\n",
+    "publicProfileUrl": "https://linkedin.com/in/satyanadella",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1579726625483?e=1763596800&v=beta&t=fXwDPWsHkfmWiJWixA_AZsuqdJ0XHLOUfguGa8g1tMs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "33",
+    "urn": "urn:li:person:33",
+    "localizedFirstName": "Narendra",
+    "localizedLastName": "modi",
+    "localizedHeadline": "Prime minister of india",
+    "publicProfileUrl": "https://linkedin.com/in/narendramodi",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHElqo2BcNgyw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730290871844?e=1763596800&v=beta&t=Ydcdhs20vtdfkJ2c1sIA71DaUjATQ-9YWmKIrfhf8LM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "34",
+    "urn": "urn:li:person:34",
+    "localizedFirstName": "Vamsi\n",
+    "localizedLastName": "Krishna Somanchi",
+    "localizedHeadline": "Computer Science Engineering (CORE) student at Woxsen University School of technology (2022-2026)",
+    "publicProfileUrl": "https://linkedin.com/in/vamsi-krishna-somanchi",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGQ_RpxyGkAFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673587079907?e=1763596800&v=beta&t=IMiNqWfchgzdFNZOAYAyxD5sTrxNktj2sgJM_IDFow0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "35",
+    "urn": "urn:li:person:35",
+    "localizedFirstName": "Harsh",
+    "localizedLastName": "Garje",
+    "localizedHeadline": "Woxsen University BBA ‘26 | ECDM | PRESIDENT Scribble Club | Green Energy Enthusiast | Marketing Head Intern- Alumni Relations | Investor | Cinematographer | ERS : Project Legacy 2.0 | Advance course: AOL,Banglore |",
+    "publicProfileUrl": "https://linkedin.com/in/harsh-garje-2b5a72271",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGm6nujUh-zqA/profile-displayphoto-shrink_800_800/B4DZXLtTDmH4Ac-/0/1742879404799?e=1763596800&v=beta&t=DOW26F_vavRzbYUClYJ6sFl9ijKT29q95T0PzUvO-Ws"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "36",
+    "urn": "urn:li:person:36",
+    "localizedFirstName": "Gayathri",
+    "localizedLastName": "Parsam",
+    "localizedHeadline": "Woxsen University | Btech 2026 | Content writer | Executive of Baudhik club",
+    "publicProfileUrl": "https://linkedin.com/in/gayathri-parsam-78224b25b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFRIUQuQ4HFQA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731702636074?e=1763596800&v=beta&t=cCpYElHD98C3zW5OUZBRPfajLzNXGdLxO8EUWhfhpbY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "37",
+    "urn": "urn:li:person:37",
+    "localizedFirstName": "Gayathri",
+    "localizedLastName": "Maddala",
+    "localizedHeadline": "Computer Science Student | Machine Learning & AI Enthusiast | Aspiring Data Scientist",
+    "publicProfileUrl": "https://linkedin.com/in/maddala-gayathri-0bab9424a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQF-jl-d-yTwaw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686462659151?e=1763596800&v=beta&t=RKDl_AMVSREqSIpRsI664uL5iDWv6cZdE-AsVMepPwg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "38",
+    "urn": "urn:li:person:38",
+    "localizedFirstName": "Meghana",
+    "localizedLastName": "Korimi",
+    "localizedHeadline": "Intern Data Analyst @HighRadius// Final Year@Woxsen University//Finalist @ American Express Makeathon '24// executive- Code{X}//COO-SciVerse//\n",
+    "publicProfileUrl": "https://linkedin.com/in/meghana-korimi-0a1b5a258",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFR9lb40ZaADQ/profile-displayphoto-crop_800_800/B4DZgMgnZoH0AU-/0/1752556559633?e=1763596800&v=beta&t=ISK2HtOPU_TojV-3Qqv8s3TAKpX1loK8NWh8wa0_7vQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "39",
+    "urn": "urn:li:person:39",
+    "localizedFirstName": "Chris",
+    "localizedLastName": "Jose",
+    "localizedHeadline": "Senior Vice President - Student Council | Undergrad Student at Woxsen University | B.Tech'27| Campus Ambassador | Artificial Intelligence and Machine Learning | Senior Executive - Octaves Music Club | Social Worker |\n",
+    "publicProfileUrl": "https://linkedin.com/in/chris-jose13",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFmUpVMnjdGrA/profile-displayphoto-shrink_800_800/B4DZYvWyk6HsAc-/0/1744551228646?e=1763596800&v=beta&t=Caq8U53B82ctBkU0tnVC0R32fVJOrdmMdlV33uI7vKI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "40",
+    "urn": "urn:li:person:40",
+    "localizedFirstName": "meher",
+    "localizedLastName": "gayatri devi",
+    "localizedHeadline": "Assistant Professor  | Researcher | Cyber Security Zealot | Prompt Engineering Enthusiast | Life and Mindset Coach",
+    "publicProfileUrl": "https://linkedin.com/in/mehergayatridevi",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQHj9QsRrbxE4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1623604862096?e=1763596800&v=beta&t=Im0IT3Bl-LdDm2HZKm5n9RyBdBDijgGK3ANgebFDw_g"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "41",
+    "urn": "urn:li:person:41",
+    "localizedFirstName": "Rohith",
+    "localizedLastName": "Chintham",
+    "localizedHeadline": "B.Tech | Computer Science | Event organiser Baudhik Club",
+    "publicProfileUrl": "https://linkedin.com/in/rohith-chintham-934a8025a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQE1x3gwKAi6fg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701265491617?e=1763596800&v=beta&t=g7nCF3m-t4NYDx4OjiZS0TQdPJQA5649fGuIK378Blo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "42",
+    "urn": "urn:li:person:42",
+    "localizedFirstName": "Anand",
+    "localizedLastName": "Kakarla",
+    "localizedHeadline": "Ph. D IIT Hyderabad | Researcher Nihon University Japan |\n",
+    "publicProfileUrl": "https://linkedin.com/in/anandkakarla",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHsf1xlvOYjmA/profile-displayphoto-shrink_800_800/B4DZQx89oxGUAc-/0/1736004852702?e=1763596800&v=beta&t=joT0ZjgBzlQufla1iNpLBbkwbr-LQ1bAXWKNhXotLdk"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "43",
+    "urn": "urn:li:person:43",
+    "localizedFirstName": "Nithya",
+    "localizedLastName": "Santhoshini",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/nitya-santhoshini-bb2011262",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFBTPNrKPAn7g/profile-displayphoto-crop_800_800/B4DZkBJvqiG8AI-/0/1756660957399?e=1763596800&v=beta&t=FvFFfgRy057PPmRrruqf8RIkYh_cLR3awQOJ9AE-Hqw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "44",
+    "urn": "urn:li:person:44",
+    "localizedFirstName": "Saniya",
+    "localizedLastName": "Acharya",
+    "localizedHeadline": "4th Year B.Tech Student at Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/saniya-acharya-821167253",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQETIaL6yKEctg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719998420468?e=1763596800&v=beta&t=vA1QTP-F7Qe_taaNFtoubFgKrlEQ7Uqn1QR6Amr5-O8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "45",
+    "urn": "urn:li:person:45",
+    "localizedFirstName": "Sowmya",
+    "localizedLastName": "kuncham",
+    "localizedHeadline": "Wou'27 | CSE-DS | Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/sowmyakuncham",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGiRvb6evmUQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731740731288?e=1763596800&v=beta&t=Lr2LDFyY7RQeGJFedP8wkD52MQV8Lthjg8xNHsUPoD0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "46",
+    "urn": "urn:li:person:46",
+    "localizedFirstName": "Sowmya",
+    "localizedLastName": "Saluru",
+    "localizedHeadline": "Solving Real-World Problems with ML & Code | Data Analytics | Deep Learning | Full Stack | Student at Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/sowmyasaluruu",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHIhzBaki1E4Q/profile-displayphoto-shrink_800_800/B4DZYqOSKjGkAc-/0/1744465112133?e=1763596800&v=beta&t=IYdXAA0-TutV0B6UWacEY3OBGKgLlaqtUMnt7SRiKxs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "47",
+    "urn": "urn:li:person:47",
+    "localizedFirstName": "Taniya",
+    "localizedLastName": "Solanki",
+    "localizedHeadline": "Student at Woxsen University | Ecole Supérieure d'Ingénieurs Léonard de Vinci | BTech | Artificial Intelligence and Machine Learning",
+    "publicProfileUrl": "https://linkedin.com/in/tania-solanki",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQHPFi4E4PqVtQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1664352532370?e=1763596800&v=beta&t=TaO7RPYGpSOeh9vbz8amnVMJsYos5cyy6T5_HbKZrN8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "48",
+    "urn": "urn:li:person:48",
+    "localizedFirstName": "Abhinav",
+    "localizedLastName": "Chowdary",
+    "localizedHeadline": "Student At Woxsen University\n",
+    "publicProfileUrl": "https://linkedin.com/in/abhinavchowdary",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFYkmlB0l3oAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721244096800?e=1763596800&v=beta&t=TlojqV0ESkCNXBYtXPffUhz9pIyETB54Fh2Wqt0nY84"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "49",
+    "urn": "urn:li:person:49",
+    "localizedFirstName": "Diganta",
+    "localizedLastName": "Das",
+    "localizedHeadline": "Machine Learning & AI Enthusiast | WOU | Leveraging Data to Drive Innovation | Eager to Contribute to the Future of Tech ✨📈🚀",
+    "publicProfileUrl": "https://linkedin.com/in/diganta-das",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGAWwpaCoLc3A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727965419665?e=1763596800&v=beta&t=LjCIrxB31zJ_n4ktclN_1ZVzieLJYHnQq5JloHYWUOc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "50",
+    "urn": "urn:li:person:50",
+    "localizedFirstName": "Thanyashri",
+    "localizedLastName": "HariBasker",
+    "localizedHeadline": "Woxsen University MBAâ€™26 | TechM & Decathlon | Personal Branding Enthusiast | Entrepreneur in the Making",
+    "publicProfileUrl": "https://linkedin.com/in/thanyashriharibasker",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEmV54ypt24lw/profile-displayphoto-shrink_800_800/B56ZPjHoLcHQAc-/0/1734682249681?e=1763596800&v=beta&t=w4PhR6w7HojbRsOXmlFe3RamdCjzzcx_0eFreNL5K8c"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "51",
+    "urn": "urn:li:person:51",
+    "localizedFirstName": "Samardh",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "â€¢ BBA (honours) Student at Woxsen University | Passionate About Business & Education |",
+    "publicProfileUrl": "https://linkedin.com/in/samardh-reddy-4b78ab298",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEyLtZxJ_648A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730273621806?e=1763596800&v=beta&t=3K642eurbE7SJ5foknuQ9n0_7pJB3uH4oFNi4R91C1M"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "52",
+    "urn": "urn:li:person:52",
+    "localizedFirstName": "Sathwika",
+    "localizedLastName": "N",
+    "localizedHeadline": "Student at WOXSEN University",
+    "publicProfileUrl": "https://linkedin.com/in/sathwika-n-37719720b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHiiJrpya-giw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727344757048?e=1763596800&v=beta&t=Cvt2lgXwNkHfjUiq05W6oYk6mldUKlja6UgSTEylROk"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "53",
+    "urn": "urn:li:person:53",
+    "localizedFirstName": "Sudhansu",
+    "localizedLastName": "Nayak",
+    "localizedHeadline": "MBA'26 at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/isudhansunayak",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEtsJAwwoHKjg/profile-displayphoto-shrink_800_800/B56ZWtRoBcGQAk-/0/1742368834358?e=1763596800&v=beta&t=OyR82ErMY4GguIwJy4rgDeFzdwPKLHt43BpL1xFg1QU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "54",
+    "urn": "urn:li:person:54",
+    "localizedFirstName": "P.keerthi",
+    "localizedLastName": "reddy",
+    "localizedHeadline": "Intern at Studio Kadamb | Student at Woxsen University| B-Archâ€™26 | President of skribble(Art) club",
+    "publicProfileUrl": "https://linkedin.com/in/p-keerthi-reddy",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHTv96S4L1tmQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723194733719?e=1763596800&v=beta&t=f6WE58FapI5FMkKGaOu4vhR3hCzz3MC3cCKhWBf6y9g"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "55",
+    "urn": "urn:li:person:55",
+    "localizedFirstName": "VISHNU",
+    "localizedLastName": "M",
+    "localizedHeadline": "Student at Woxsen University Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/vishnu-m-16162b25b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGLHkIcanKAwQ/profile-displayphoto-shrink_800_800/B56ZUINvkNHQAc-/0/1739599576106?e=1763596800&v=beta&t=rLdWt78hjdsoNxAGxLDEmQ-Febjs1p40Ui5L-tah57k"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "56",
+    "urn": "urn:li:person:56",
+    "localizedFirstName": "Ayush",
+    "localizedLastName": "Anand",
+    "localizedHeadline": "Amararaja Energy & Mobilty | MBA 25 | Finance | Operations | Woxsen University | Website Administrator | Digital Marketing | Ex-Digital Head at Marketing Director's Club",
+    "publicProfileUrl": "https://linkedin.com/in/ayushanand448",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGsVahzMkI_bA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725552373193?e=1763596800&v=beta&t=v4LguUARvhBUsKQisvmhLNK_y5y1SMWlwYpgaCNExa4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "57",
+    "urn": "urn:li:person:57",
+    "localizedFirstName": "Abbu",
+    "localizedLastName": "Veena",
+    "localizedHeadline": "Pursuing MBA at Woxsen University | Specializing in Cyber Security | Emerging Business Professional",
+    "publicProfileUrl": "https://linkedin.com/in/abbu-veena-b5a117245",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEZ8_sFvVP1Gw/profile-displayphoto-shrink_800_800/B56ZbBWgmiGoAc-/0/1747000626711?e=1763596800&v=beta&t=eoSHEd5XH2cknhtW9m28-lTJAlWFY0xoM9o6njxRcVU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "58",
+    "urn": "urn:li:person:58",
+    "localizedFirstName": "P",
+    "localizedLastName": "Anishreddy",
+    "localizedHeadline": "Student at woxsen university",
+    "publicProfileUrl": "https://linkedin.com/in/anishreddypeddi",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGD9mcDo9FLtA/profile-displayphoto-shrink_800_800/B4DZPshTg9HMAc-/0/1734839974692?e=1763596800&v=beta&t=nYCDCi4DN2sS21YqFWsuw-wifmb8kdasKwe66qmYsKg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "59",
+    "urn": "urn:li:person:59",
+    "localizedFirstName": "Vaibhav",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Student , Woxsen University | BBA - Entrepreneurship Development and Marketing | Jashn Cultural Club Executive| Seeking Opportunities",
+    "publicProfileUrl": "https://linkedin.com/in/vaibhav-reddy-070368218",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQF_m3pc74zrOg/profile-displayphoto-shrink_800_800/B4DZQBkdsDGUAg-/0/1735193124541?e=1763596800&v=beta&t=Jzz0tuQfRIo5dTSqai1t_Q8ROLD6kSSjZXNLL-o7rMA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "60",
+    "urn": "urn:li:person:60",
+    "localizedFirstName": "Deekshath",
+    "localizedLastName": "B",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/deekshath-b-a738b32a0",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEt60vuB6Bi4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1700538050081?e=1763596800&v=beta&t=KuMKVh7AqYCcCxZZuKUy6wN8GoMHlviDcPm8JXaoHb8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "61",
+    "urn": "urn:li:person:61",
+    "localizedFirstName": "Kaki",
+    "localizedLastName": "Dinesh",
+    "localizedHeadline": "Student at Woxsen University | BBA (Hons)",
+    "publicProfileUrl": "https://linkedin.com/in/kaki-dinesh-27a643317",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEf6sKxqhxyxA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720015383727?e=1763596800&v=beta&t=XdoQ_z7708rQLrjkkgneBDvNtRq9x1h0ij_2J2hmXCw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "62",
+    "urn": "urn:li:person:62",
+    "localizedFirstName": "Anohita Sen",
+    "localizedLastName": "nan",
+    "localizedHeadline": "Undergrad Student at Woxsen University | B.Tech'27 Tech Lead - College Placement Cell | Artificial Intelligence and Machine Learning | arming | Automation | Core Member - Codex||Q Club | Part Time Content Writer | Social Worker",
+    "publicProfileUrl": "https://linkedin.com/in/anohita-sen",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHV_AIIOAxq0w/profile-displayphoto-shrink_800_800/B4DZTKtYT2G4Ac-/0/1738567685192?e=1763596800&v=beta&t=kzbXG_ylUgmXc2zTq0Ac2Q2qYocv_y9jORRAZTGFoKg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "63",
+    "urn": "urn:li:person:63",
+    "localizedFirstName": "Praveen K",
+    "localizedLastName": "Pula (Veen Pula)",
+    "localizedHeadline": "Edupreneur | Founder | Woxsen University | Investor | YPO | TiE | Accelerate 250 | Golfer | Tennis Enthusiast | Nature Photographer",
+    "publicProfileUrl": "https://linkedin.com/in/veenp",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQHAvwOedKTgsg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517517659306?e=1763596800&v=beta&t=LOawuzKQ73xkH3Rk0Huqu1vcYoERohN5dzUrBE4qUXM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "64",
+    "urn": "urn:li:person:64",
+    "localizedFirstName": "Venkat Reddy",
+    "localizedLastName": "Yasa",
+    "localizedHeadline": "Assistant Professor in Statistics at Woxsen University |Business Statistics| | Operations Research| Data Science| SPSS | Quantitative Techniques",
+    "publicProfileUrl": "https://linkedin.com/in/venkat-reddy-yasa-8558a658",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHbgHII88zHlQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674033973304?e=1763596800&v=beta&t=c9InvOeGj9psLDDjlf04Z2SQSrcwVk7eLguKrBKyHRA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "65",
+    "urn": "urn:li:person:65",
+    "localizedFirstName": "Raul",
+    "localizedLastName": "Villamarin Rodriguez",
+    "localizedHeadline": "VP @ Woxsen University âž¡ï¸_x008f_ Board Member âž¡ï¸_x008f_ Cognitive Technologist âž¡ï¸_x008f_ Behavioural Engineer",
+    "publicProfileUrl": "https://linkedin.com/in/raulvillamarinrodriguez",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH5ToNOIOyl3w/profile-displayphoto-shrink_800_800/B4DZXwPJ7RG4Ac-/0/1743492261016?e=1763596800&v=beta&t=xhB_04TLIAjD5GeNU5cXsUWl1fLmEnWYeMlfD_PbxXY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "66",
+    "urn": "urn:li:person:66",
+    "localizedFirstName": "Vinodh Reddy",
+    "localizedLastName": "Katta",
+    "localizedHeadline": "General Manager @Woxsen University | Marketing | Brand Outreach | Admissions",
+    "publicProfileUrl": "https://linkedin.com/in/vinodhreddykatta",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFvp2JjMXVUSw/profile-displayphoto-crop_800_800/B56ZhP5i.ZHMAM-/0/1753687152445?e=1763596800&v=beta&t=8hprzySZk8b4rPg7wP3FfcO688eMwDm2PqLE4uZQLvE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "67",
+    "urn": "urn:li:person:67",
+    "localizedFirstName": "Shivaramakrishna",
+    "localizedLastName": "Gajawada",
+    "localizedHeadline": "Result Oriented Management Professional with over 17 years of Distinguished Experience in the Corporate Relations / Human Management /Brand Building",
+    "publicProfileUrl": "https://linkedin.com/in/shivaramakrishna-gajawada-41502019",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEstFhKdoxqZQ/profile-displayphoto-shrink_800_800/B56ZaEWCTLGUAg-/0/1745977098405?e=1763596800&v=beta&t=0zpeSz0aamgKuNUeRD4oVPIhnUr1lWQfEfn1FVlLUxQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "68",
+    "urn": "urn:li:person:68",
+    "localizedFirstName": "Ajay",
+    "localizedLastName": "Chhabra",
+    "localizedHeadline": "Professor of Practice | Digital Marketing | Digital Strategy | Woxsen University | Trainer | Author - AMA, IGI Global & Bloomsbury | Featured on ETNow TV | ex General Electric, Ogilvy & Mather, MRM Worldwide & Bruce Clay",
+    "publicProfileUrl": "https://linkedin.com/in/ajaychhabra",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEYDb2cR4v5vw/profile-displayphoto-shrink_800_800/B56ZcAL2QGHUAc-/0/1748054803308?e=1763596800&v=beta&t=Lod0KdZOxiBzwVdQ9AsDUyg1gMwxqJG-eY8wwOtivNs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "69",
+    "urn": "urn:li:person:69",
+    "localizedFirstName": "Vishal",
+    "localizedLastName": "Anand",
+    "localizedHeadline": "Assistant Dean-International Relations | School of Science | Woxsen University | PhD- Biotechnology IIT Indore | Postdoc: University of Pannonia, IIT Roorkee | Biofuel, Waste-to-Energy, Wastewater Treatment |",
+    "publicProfileUrl": "https://linkedin.com/in/vishal-anand-85b83a3b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEZh5bery_1hA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699350244992?e=1763596800&v=beta&t=6MmgvduB2FJnxykqe76ivDPtLR1HveNMagWesA_-_TU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "70",
+    "urn": "urn:li:person:70",
+    "localizedFirstName": "Santhosh",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Senior Manager- HR @Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/santhosh-reddy-mula",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQG48wgUhJ02aQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729487213177?e=1763596800&v=beta&t=zFdbondlM4Dw1oX5EDf9U2MqHdAActDc9ChmU13dh0Q"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "71",
+    "urn": "urn:li:person:71",
+    "localizedFirstName": "Surya",
+    "localizedLastName": "Shivannagari",
+    "localizedHeadline": "Community Outreach Manager || School Of Business || AI Research Centre || Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/suryashivannagari",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQElKfFe9kBgcg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690737420989?e=1763596800&v=beta&t=PLJ6-ExgUe-6j6y6ABnh7NqH2I3wY-s8Sd3YjcL81Ns"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "72",
+    "urn": "urn:li:person:72",
+    "localizedFirstName": "Ashima",
+    "localizedLastName": "Sood",
+    "localizedHeadline": "Researcher, PhD_Scholar, School of Technology || Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/ashima-sood-93245a1a7",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQF8jUl7jQSLdQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729080541459?e=1763596800&v=beta&t=3cDCnyEgo5SVFp_BKq8O1FqACIYa9kJGrlmc_laaOFg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "73",
+    "urn": "urn:li:person:73",
+    "localizedFirstName": "Raju",
+    "localizedLastName": "VSN",
+    "localizedHeadline": "General Manager HR @ Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/rajuvsn",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEvYDCdPvd63w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723619520582?e=1763596800&v=beta&t=NaapYmMwiE2s6vIb30HsLQ2vfv2gGziOV5L3VbAcHx8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "74",
+    "urn": "urn:li:person:74",
+    "localizedFirstName": "Manuel",
+    "localizedLastName": "Rincon",
+    "localizedHeadline": "Full Professor at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/manuelrincon",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQEKqEiVs-fCZg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516278694350?e=1763596800&v=beta&t=7Xo1y9rFdxLboc2_dWEwb2yAcdgQMfdJNOqn0NwuOKY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "75",
+    "urn": "urn:li:person:75",
+    "localizedFirstName": "Kalyani",
+    "localizedLastName": "Tripathy",
+    "localizedHeadline": "Deputy General Manager - Students Services at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/kalyani-tripathy-31391116",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "76",
+    "urn": "urn:li:person:76",
+    "localizedFirstName": "Prof. Som",
+    "localizedLastName": "Banerjee",
+    "localizedHeadline": "University Professor | Research Scholar @ IIT KGP | Entrepreneur | IITH | GE | Harvard | Drury",
+    "publicProfileUrl": "https://linkedin.com/in/somdutta-banerjee",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQEV5WO4cOUOtA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629366703451?e=1763596800&v=beta&t=LidtdPnVzYKKq5j72fTTMEPQUfhKQv4GnVShzOOnHnI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "77",
+    "urn": "urn:li:person:77",
+    "localizedFirstName": "Anindo",
+    "localizedLastName": "Bhattacharjee, PhD",
+    "localizedHeadline": "Research Chair; Hannes Zacher Chair Professor at Woxsen University; Start-up Advisor; Behavioral Scientist; TEDx Speaker",
+    "publicProfileUrl": "https://linkedin.com/in/anindo-bhattacharjee-phd-b22aaab",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGwW6WV6dJ7zQ/profile-displayphoto-shrink_800_800/B56ZY0ekLWHQAc-/0/1744637151165?e=1763596800&v=beta&t=oHuQ97vpOVTxTB2r8X4siNF6hqkKsc1d-0bbmvJAwTU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "78",
+    "urn": "urn:li:person:78",
+    "localizedFirstName": "SAZZAD",
+    "localizedLastName": "PARWEZ",
+    "localizedHeadline": "Associate Professor (in Economics area) at Woxsen School of Business, Woxsen University, Hyderabad\n ; Programme Director (PhD Research Program) at Woxsen School of Business",
+    "publicProfileUrl": "https://linkedin.com/in/sazzad-parwez-29818155",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5103AQEp7n4lGqJsvA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1555915772527?e=1763596800&v=beta&t=vSOUW0JXz0U7SL7x3FzAR-sUpRK41YkoEQls-h9s13g"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "79",
+    "urn": "urn:li:person:79",
+    "localizedFirstName": "Pavana",
+    "localizedLastName": "Kiranmai Chepuri",
+    "localizedHeadline": "Chief of Staff & Head of Strategic Initiatives & Growth, VP's Office | In-House Legal Counsel | Corporate & Financial law | Accreditations - Support Team: EFMD, AACSB, EQUIS at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/pavana-kiranmai-chepuri",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFAdOtSvuzxcA/profile-displayphoto-crop_800_800/B56ZmXDHo5I8AI-/0/1759175809755?e=1763596800&v=beta&t=DWIT70DSKf7FzOFHPY8_EIelLRIaOwYwcKB292QrrDs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "80",
+    "urn": "urn:li:person:80",
+    "localizedFirstName": "Adity",
+    "localizedLastName": "Saxena, PhD",
+    "localizedHeadline": "Professor & Dean, School of Arts and Design at Woxsen University | Elected Member of Board of Director of College Art Association, USA | India Representative Restorative Justice Education, USA |",
+    "publicProfileUrl": "https://linkedin.com/in/aditysaxena",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGS2t6KMeGtfw/profile-displayphoto-shrink_800_800/B4DZUVBmiEHwAg-/0/1739814497077?e=1763596800&v=beta&t=cMYV00RwYZax_XPwNEWZee-l4S02LRGg4xZer9owuwA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "81",
+    "urn": "urn:li:person:81",
+    "localizedFirstName": "Brundaban",
+    "localizedLastName": "Mishra",
+    "localizedHeadline": "Dipesh Chakrabarty Professor of History and Co-Chairperson, CoE-SAS, Assistant Dean- International Relations, at Woxsen University, Hyderabad, India. Postdoc from Kyoto University, Japan and Ph. D from JNU, New Delhi",
+    "publicProfileUrl": "https://linkedin.com/in/brundaban-mishra",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHxYhg9PZsg2w/profile-displayphoto-shrink_800_800/B4DZb28siXGYAc-/0/1747899828876?e=1763596800&v=beta&t=HRL972FXLLTSGQTWYQwTb6u4QRSUTuYoytRSCxyXghg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "82",
+    "urn": "urn:li:person:82",
+    "localizedFirstName": "Amogh",
+    "localizedLastName": "Deshmukh",
+    "localizedHeadline": "Assistant Dean - Student Affairs | Assistant Professor at School of Technology, WOXSEN University",
+    "publicProfileUrl": "https://linkedin.com/in/amogh-deshmukh-35009b17",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQENnIx6T8guRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1627719064682?e=1763596800&v=beta&t=rVZeZ_6wRyJkG0fB5SbW54rrs-qKqTu75h7WKzF51sc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "83",
+    "urn": "urn:li:person:83",
+    "localizedFirstName": "Anjushree",
+    "localizedLastName": "Durg",
+    "localizedHeadline": "Manager - HR, Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/anjushree-durg-a460591b0",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQGD6Y79nANoXA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1591790659575?e=1763596800&v=beta&t=rK2LEmKUYUQuNs9s77I7XWj_hUQ2_9eNAY4FjT_tQ00"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "84",
+    "urn": "urn:li:person:84",
+    "localizedFirstName": "Adarsh",
+    "localizedLastName": "Maddu",
+    "localizedHeadline": "Community Outreach Manager || AI Research Centre || Knowledge Centre || Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/adarsh-maddu",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFDnF7nDW6h1Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703053380280?e=1763596800&v=beta&t=14I3NN9OQCZzeVvR6bNunPSAjl1p_YnhIxiQmGnvquw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "85",
+    "urn": "urn:li:person:85",
+    "localizedFirstName": "Woxsen Debate",
+    "localizedLastName": "Club",
+    "localizedHeadline": "Official Debate Club of Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/woxsen-debate-club-8b7946221",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4E03AQEHgmmeRYTSSg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1632980724699?e=1763596800&v=beta&t=GcCCSggDsZozUFULzalGbClianmj9VWp3KC7Nrso8Vs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "86",
+    "urn": "urn:li:person:86",
+    "localizedFirstName": "Afzalur",
+    "localizedLastName": "Rahman",
+    "localizedHeadline": "Professor, School of Business, Woxsen University, Hyderabad, Telangana, India",
+    "publicProfileUrl": "https://linkedin.com/in/afzalur-rahman-85022016",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "87",
+    "urn": "urn:li:person:87",
+    "localizedFirstName": "Karann",
+    "localizedLastName": "Thakur",
+    "localizedHeadline": "Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/karann-thakur-603a03271",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQH98RXhU5bgEQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1681456253593?e=1763596800&v=beta&t=6uzPW07GgjXnrxowTSeA7tK8mhS04ZM9eySGS8PUzrQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "88",
+    "urn": "urn:li:person:88",
+    "localizedFirstName": "SRI VIDYA",
+    "localizedLastName": "K",
+    "localizedHeadline": "Senior Manager - Corporate Relations @ Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sri-vidya-k-2880ba204",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHzO7saZE4mdA/profile-displayphoto-shrink_800_800/B56ZWqB3ijHoAc-/0/1742314371984?e=1763596800&v=beta&t=kV6M5IhaHfwjIrj9bdgVnbKsXxcmFkq-XSiu2VbsVBo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "89",
+    "urn": "urn:li:person:89",
+    "localizedFirstName": "Dr",
+    "localizedLastName": "Jyotasana",
+    "localizedHeadline": "Assistant Dean (Student Affairs), School of Liberal Arts and Humanities/ Area Chair and Assistant Professor, History, Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/dr-jyotasana-6bab8a247",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQH08IVVthOBRg/profile-displayphoto-shrink_800_800/B56ZO561ejGkAc-/0/1733991031358?e=1763596800&v=beta&t=Mh-1R1ylLp6ecgLDST-byRcISBVxRBh__EuJRjHe56o"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "90",
+    "urn": "urn:li:person:90",
+    "localizedFirstName": "Abhishikta",
+    "localizedLastName": "Pramanik",
+    "localizedHeadline": "HR Coordinator & Administrative Coordinator at Woxsen University|Talent Acquisition |HR Analytics |Recruitment Analytics |Culture and Community management|Employee Engagement .",
+    "publicProfileUrl": "https://linkedin.com/in/abhishikta-pramanik",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHplUxAPbrA4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682248772577?e=1763596800&v=beta&t=Mdx6garPK_-aTVKK8hKxt0tzJCehfJ9b-EA-a45yqU4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "91",
+    "urn": "urn:li:person:91",
+    "localizedFirstName": "Uttam Kumar",
+    "localizedLastName": "Deb",
+    "localizedHeadline": "MBA'26 Student at Woxsen University | BBA | Logistics and Supply Chain Management",
+    "publicProfileUrl": "https://linkedin.com/in/uttam-kumar-deb",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHbjeNfCbDDpg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723964509593?e=1763596800&v=beta&t=bM7rNhq1iJOssAuOYu4OmIoqPqfK1vXppNITdgSzotA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "92",
+    "urn": "urn:li:person:92",
+    "localizedFirstName": "Vishal",
+    "localizedLastName": "K",
+    "localizedHeadline": "Head of Sports - Woxsen Sports Academy | Former Student Council President | Former PRME Taskforce Coordinator | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/vishalk1412",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEDd98-uopnOw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689314642600?e=1763596800&v=beta&t=BPc9awb6lTk6WGQ-i8DBxAI2m1epbktPPA4iW7EMQx4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "93",
+    "urn": "urn:li:person:93",
+    "localizedFirstName": "Dr Murali V",
+    "localizedLastName": "Kesaboina",
+    "localizedHeadline": "Associate Professor, Assistant Dean-Student Affairs- Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/dr-murali-v-kesaboina-6073b327",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGQsIwoQDBbDQ/profile-displayphoto-shrink_800_800/B4DZNT0DBgHMAc-/0/1732277974094?e=1763596800&v=beta&t=P_3cqvOdooYwbfz3O3kYMQgOpZxja_WtB2tvpA04OXk"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "94",
+    "urn": "urn:li:person:94",
+    "localizedFirstName": "Makkapati Sriya",
+    "localizedLastName": "Rao",
+    "localizedHeadline": "Student at Woxsen university| COE for human rights executive|",
+    "publicProfileUrl": "https://linkedin.com/in/makkapati-sriya",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGETHeYE5ztaA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664000397539?e=1763596800&v=beta&t=pRbeAX3--CwdLZvYARMPH-vo3EyueFGKOHi9ITVZO-A"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "95",
+    "urn": "urn:li:person:95",
+    "localizedFirstName": "Surabhi",
+    "localizedLastName": "Anand",
+    "localizedHeadline": "MBA Student at Woxsen University | BBA in Marketing Management",
+    "publicProfileUrl": "https://linkedin.com/in/surabhiianand",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHKP4QKaqNqkg/profile-displayphoto-shrink_800_800/B56ZawsPXMGUAg-/0/1746721111775?e=1763596800&v=beta&t=_GWKvhRV2Ozei3QibkMZ6SMyyY3lnFHRUo6_mD8TLng"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "96",
+    "urn": "urn:li:person:96",
+    "localizedFirstName": "Sheena",
+    "localizedLastName": "Thomas",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sheena-thomas-6b9101306",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQF-m-AWutYkSg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714098926030?e=1763596800&v=beta&t=oQ9h_fjA2sHSZznWoGT4SiJtGiV5m4P6Ett54UNInmQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "97",
+    "urn": "urn:li:person:97",
+    "localizedFirstName": "Sri Akash",
+    "localizedLastName": "Pendam",
+    "localizedHeadline": "MBAâ€™25 | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sri-akash-pendam",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQH_tanhlgNckg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719025540886?e=1763596800&v=beta&t=P75r2TF97MGOKw2M6_VSoP--iOsyDw7HODvcHK1nucY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "98",
+    "urn": "urn:li:person:98",
+    "localizedFirstName": "Harmansh",
+    "localizedLastName": "chawla",
+    "localizedHeadline": "Student at Woxsen University | BBA | financial services | International Relations (IR) |",
+    "publicProfileUrl": "https://linkedin.com/in/harmansh-chawla-928043274",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHWGIVnK2zjAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682363619895?e=1763596800&v=beta&t=coBLM2jtlaW-Wx7vvQh8j5KpEiZdjxbFwZNNkPgDqxY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "99",
+    "urn": "urn:li:person:99",
+    "localizedFirstName": "Sumant",
+    "localizedLastName": "Kumar",
+    "localizedHeadline": "Program Manager",
+    "publicProfileUrl": "https://linkedin.com/in/sumant-kumar-a0430b70",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGsXTQHz6GPZg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723092009843?e=1763596800&v=beta&t=cZNd8R4G4kWZose8w3hXOXril-lE82vy3iLHvEoy6Rc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "100",
+    "urn": "urn:li:person:100",
+    "localizedFirstName": "Lokesh",
+    "localizedLastName": "Palimkar",
+    "localizedHeadline": "Student at Woxsen University, Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/lokesh-palimkar-061981198",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "101",
+    "urn": "urn:li:person:101",
+    "localizedFirstName": "Pragnaa",
+    "localizedLastName": "Vadlamudi",
+    "localizedHeadline": "B.ARCH | Candidate Class of 2025| Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/pragnaa-vadlamudi-183165197",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQGEWPg1jNem-g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636968933527?e=1763596800&v=beta&t=YPWvX9n_YDES9RB2pd-81xD_aq-PBtMs5PlfJ3aVLYc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "102",
+    "urn": "urn:li:person:102",
+    "localizedFirstName": "Pradip",
+    "localizedLastName": "Ganguli",
+    "localizedHeadline": "Director - Woxsen Foresight | Head - Woxsen Centre of Technology & Innovation, Vietnam | Consulting Services | Executive Education| Industry-Academia Collaborations",
+    "publicProfileUrl": "https://linkedin.com/in/pradipganguli",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "103",
+    "urn": "urn:li:person:103",
+    "localizedFirstName": "Uma Ananda",
+    "localizedLastName": "Dagnino GonzÃ¡lez",
+    "localizedHeadline": "Vice Chancellor @ Woxsen University | \n International Relations | Migration studies | Arts and Eastern Philosophies|",
+    "publicProfileUrl": "https://linkedin.com/in/management-languages-projects",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEmHWpsc28HBQ/profile-displayphoto-crop_800_800/B4EZmHYGbqKQAI-/0/1758912866696?e=1763596800&v=beta&t=vk9wO9DpfH6NGrCp_kfkFZtp_mE-w9URBtQak-R7aqI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "104",
+    "urn": "urn:li:person:104",
+    "localizedFirstName": "Lekhak",
+    "localizedLastName": "Surya",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/lekhak-surya-0263692b7",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFjDbjVl9UtBA/profile-displayphoto-crop_800_800/B4DZhB8SRuGgAQ-/0/1753452981674?e=1763596800&v=beta&t=RMi-95iGPkskm-xGD9LQtP23OepqAQpp7Cwv1guTejg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "105",
+    "urn": "urn:li:person:105",
+    "localizedFirstName": "Rubaina",
+    "localizedLastName": "Khan",
+    "localizedHeadline": "BBA Finance Major at Woxsen University (2023-2026) | Aspiring Finance Professional |",
+    "publicProfileUrl": "https://linkedin.com/in/rubaina-khan-b75b362a4",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEXPHPKYydXxA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702401091186?e=1763596800&v=beta&t=2Au-fBEVcFWR-eCDOvSwXOId6QXOVGNgaLD6X9yvm74"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "106",
+    "urn": "urn:li:person:106",
+    "localizedFirstName": "Proshumi",
+    "localizedLastName": "Banerjee",
+    "localizedHeadline": "BBA | Woxsen University | E-commerce and Digital Marketing | Fall semester 2024 at IE University",
+    "publicProfileUrl": "https://linkedin.com/in/proshumi-banerjee-432633225",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH5XZkpLOynKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731536137714?e=1763596800&v=beta&t=ODhIAI49OO20HI_yUM4uhmGmCZDuZxaPMsCa-WkiVWQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "107",
+    "urn": "urn:li:person:107",
+    "localizedFirstName": "Abhishek",
+    "localizedLastName": "Vaidya",
+    "localizedHeadline": "Board Member â€¢ CFO â€¢ Strategy, Procurement & Operations â€¢ Dual Gold Medalist â€¢ Passionate About Sustainable Development & Social Impact",
+    "publicProfileUrl": "https://linkedin.com/in/abhishek-vaidya",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "108",
+    "urn": "urn:li:person:108",
+    "localizedFirstName": "Ch",
+    "localizedLastName": "Bhavana",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/ch-bhavana-3a7500201",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "109",
+    "urn": "urn:li:person:109",
+    "localizedFirstName": "Yadhu",
+    "localizedLastName": "Nandhan",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/yadhu-nandhan-677512314",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHzzXZx5ptvQw/profile-displayphoto-shrink_800_800/B56ZdLprClGQAc-/0/1749320906204?e=1763596800&v=beta&t=1iFI6xzTcajFNzEjIAu997AM3_LQbtVlLBaygV7RiKE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "110",
+    "urn": "urn:li:person:110",
+    "localizedFirstName": "Rakshith",
+    "localizedLastName": "C",
+    "localizedHeadline": "Master of Business Administration (MBA) | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/rakshithcherukuvada",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEW-KOf_neOfA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724518210124?e=1763596800&v=beta&t=OmS2Xagq8v4KRjtHNhoD-KRFaQI3GfhqAnuB-cQi2zc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "111",
+    "urn": "urn:li:person:111",
+    "localizedFirstName": "Woxsen",
+    "localizedLastName": "University",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/woxsen-university-578ba0370",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "112",
+    "urn": "urn:li:person:112",
+    "localizedFirstName": "Abhijit",
+    "localizedLastName": "Shirodkar",
+    "localizedHeadline": "Registrar, Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/abhijit-shirodkar",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "113",
+    "urn": "urn:li:person:113",
+    "localizedFirstName": "Vishal Kumar",
+    "localizedLastName": "Sharma",
+    "localizedHeadline": "Senior Project Engineer at AI Research Centre - Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/mastervishal",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQGRsqs_JdsCrw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1657359059187?e=1763596800&v=beta&t=dSALOy50DSK2H1amfdyYziMbsQuhGyjESPh-Tjd6M_I"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "114",
+    "urn": "urn:li:person:114",
+    "localizedFirstName": "Dr. Venkata",
+    "localizedLastName": "Narayana",
+    "localizedHeadline": "Assistant professor of Chemistry, School of Sciences, Woxsen University, Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/dr-venkata-narayana-4b0aaa120",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFw3mRH1OimIw/profile-displayphoto-shrink_800_800/B4DZQlwDt5GgAc-/0/1735800145067?e=1763596800&v=beta&t=JsUpk69s2E-gFbhi9KMJMxggFitBRydoNTpSsSRYI2Y"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "115",
+    "urn": "urn:li:person:115",
+    "localizedFirstName": "Akshita",
+    "localizedLastName": "Nedunuri",
+    "localizedHeadline": "Fashion Design Student at Woxsen University | Placecomm committee Member | President of the Fashion Club in Woxsen University 2024-25 | Class Representative 2023-24 | The Fashion Club Executive - Styling and Magazine",
+    "publicProfileUrl": "https://linkedin.com/in/akshita-nedunuri-fashion",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFDQJbs0chrlA/profile-displayphoto-shrink_800_800/B4DZPzDkZfHUAg-/0/1734949620205?e=1763596800&v=beta&t=qrmF7RRZBd6O7VFkB-i7DwdiCUANw4tDOJnpkVp87E8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "116",
+    "urn": "urn:li:person:116",
+    "localizedFirstName": "Oindrila",
+    "localizedLastName": "De",
+    "localizedHeadline": "MBA 2023-2025 | Oxane Partners | Woxsen University | Corporate Relationship member | Class Representative | Finance | Operations | University of Calcutta | Accounts and Finance",
+    "publicProfileUrl": "https://linkedin.com/in/oindrila-de1",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFSsPzNtTYIqA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690983244638?e=1763596800&v=beta&t=LyH6nnFLsrzzjycc4sBN4yNHsptNQ5X0jhsX6pCw-64"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "117",
+    "urn": "urn:li:person:117",
+    "localizedFirstName": "Dr. Aditi",
+    "localizedLastName": "Singh",
+    "localizedHeadline": "Assistant Dean,International Relations || Programme Director || Associate Professor, Woxsen University || PhD, GGSIPU || POSH Trainer || LLM Indian law Institute",
+    "publicProfileUrl": "https://linkedin.com/in/dr-aditi-singh-as",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFT1Wf5Q5Lk0g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713419636976?e=1763596800&v=beta&t=_WRUlnGm23YsinKrH8b5RtJm57RwdCT2EC5QT5Yi-uo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "118",
+    "urn": "urn:li:person:118",
+    "localizedFirstName": "Sudeshna",
+    "localizedLastName": "Sani",
+    "localizedHeadline": "Assistant Professor | Program Director (UG) SOB |, AI Research Center, Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sudeshna-sani-51326075",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "119",
+    "urn": "urn:li:person:119",
+    "localizedFirstName": "Nithish Kumar",
+    "localizedLastName": "Mudholkar",
+    "localizedHeadline": "System & Network Administrator at Woxsen University Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/nithish-kumar-mudholkar-627a06184",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQEjInL39023yQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1601496323450?e=1763596800&v=beta&t=uzAC2LH6Ddu6MLEAVpCMJmid5C-V_AsOqroXoLmnC6Y"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "120",
+    "urn": "urn:li:person:120",
+    "localizedFirstName": "Sandeep",
+    "localizedLastName": "Gundeti",
+    "localizedHeadline": "Controller of Examinations, Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sandeep-gundeti-09809516",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFGBMRbPWuzDw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723058916644?e=1763596800&v=beta&t=Hd-zOA0nMYI2WM0j9qylKd32SL22PxbYwhGV6FtKiBg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "121",
+    "urn": "urn:li:person:121",
+    "localizedFirstName": "Ashutosh",
+    "localizedLastName": "Kumar",
+    "localizedHeadline": "Bespoke & Couturier | Sartorialist | Pattern Surgeon | Explorer | Art & Design Student & Educator | PhD Scholar",
+    "publicProfileUrl": "https://linkedin.com/in/ashutk",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHm75lV4L4UBg/profile-displayphoto-crop_800_800/B4DZlcIxbyG8AI-/0/1758187428452?e=1763596800&v=beta&t=u7BT1qrr0zcMHS5y3xb7jq48KAdHZ0arAB2a7_onCdE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "122",
+    "urn": "urn:li:person:122",
+    "localizedFirstName": "Kiran Kumar",
+    "localizedLastName": "Vangaru",
+    "localizedHeadline": "Program Manager at Woxsen Univerisity",
+    "publicProfileUrl": "https://linkedin.com/in/kiran-kumar-vangaru-7510a8232",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQGsFYPMZVCAGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1645154527757?e=1763596800&v=beta&t=PB1FkgDHZnEzqfjTMt8qrIMOfVMb9wDd7HNU7c61wqw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "123",
+    "urn": "urn:li:person:123",
+    "localizedFirstName": "Sonia",
+    "localizedLastName": "Gupta",
+    "localizedHeadline": "Professor and Dean, School of Architecture and Planning, Woxsen University Telangana",
+    "publicProfileUrl": "https://linkedin.com/in/sonia-gupta-architect-professor",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "124",
+    "urn": "urn:li:person:124",
+    "localizedFirstName": "Dharshini",
+    "localizedLastName": "Peddapalli",
+    "localizedHeadline": "Counselling Psychologist ðŸŒˆ Corporate Communication Specialist ðŸ—£ï¸_x008f_",
+    "publicProfileUrl": "https://linkedin.com/in/dharshini-psych",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHlc2qEEcEWdA/profile-displayphoto-crop_800_800/B56Zk9JQbUJ8AI-/0/1757667461288?e=1763596800&v=beta&t=aJT6ch2WLRrW_izstD4NRlILJ98q83a4gAseSNhj-84"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "125",
+    "urn": "urn:li:person:125",
+    "localizedFirstName": "Lienngailhing",
+    "localizedLastName": "Khongsai",
+    "localizedHeadline": "Assistant Professor at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/lienngailhing-khongsai-9722b1334",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQFMsb529ytjGQ/profile-displayphoto-shrink_800_800/B4EZUUm8E9HUAk-/0/1739807509114?e=1763596800&v=beta&t=IufT74dWIKUAAlEPP3VnHC4eIp5OsivnWKMte6kC3qA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "126",
+    "urn": "urn:li:person:126",
+    "localizedFirstName": "Sobit",
+    "localizedLastName": "Prasad",
+    "localizedHeadline": "FullStack Engineer Woxsen University â€¢ Next.js â–² â€¢ TypeScript â€¢ React â€¢ Tailwind CSS â€¢ Python",
+    "publicProfileUrl": "https://linkedin.com/in/sobit-prasad",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "127",
+    "urn": "urn:li:person:127",
+    "localizedFirstName": "Manoj",
+    "localizedLastName": "N.Y.",
+    "localizedHeadline": "Assistant Professor at Woxsen University | Former Assistant Professor @ Jamia Millia Islamia | Visiting Fellow, Kyung Hee University, South Korea| Deleuze and Guattari Studies in India Collective|",
+    "publicProfileUrl": "https://linkedin.com/in/manoj-n-y-13b1b8b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "128",
+    "urn": "urn:li:person:128",
+    "localizedFirstName": "DEBALINA",
+    "localizedLastName": "GHOSH",
+    "localizedHeadline": "Conservation Architect I Assistant Professor at Woxsen University, Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/debalina-ghosh-006a2b124",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4E03AQGJK8KO5hDolA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1600027954708?e=1763596800&v=beta&t=dYDYYfFa-Lp2aGwiRWzDxxmces4-pG05r-e54THtTfY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "129",
+    "urn": "urn:li:person:129",
+    "localizedFirstName": "Gokulraj",
+    "localizedLastName": "R",
+    "localizedHeadline": "MBA - Business Analytics || Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/gokulrajr2552",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFoz8Jq9HWu_g/profile-displayphoto-crop_800_800/B4DZgnkYhQH4AU-/0/1753010506680?e=1763596800&v=beta&t=IxCBd27vfJp_JdiypE2Z8BwQ7Te3EDv7G5ly6JoMrEM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "130",
+    "urn": "urn:li:person:130",
+    "localizedFirstName": "Sreelatha",
+    "localizedLastName": "Annamaneni",
+    "localizedHeadline": "Dean School of Law ,Director Compliance and Legal Studies Woxsen University I Convenor Women Empowerment Cell I Co-Chairperson Centre of Excellence Engaged Learning and Teaching I Legal Aid Centre Head",
+    "publicProfileUrl": "https://linkedin.com/in/sreelatha-annamaneni-ph-d",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQE7j54BDZE3WQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709209422317?e=1763596800&v=beta&t=ik-wn5zslv-efUErXDl07qK3qOP4-XdmSWyOGlpwzNs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "131",
+    "urn": "urn:li:person:131",
+    "localizedFirstName": "Muhammed",
+    "localizedLastName": "Ansar",
+    "localizedHeadline": "Assistant Librarian @ Woxsen University | Library Professional | Information Assistant | Cataloguer | Academic Library Professional",
+    "publicProfileUrl": "https://linkedin.com/in/muhammed-ansar-120081148",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFawk3Monm8Eg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720419655335?e=1763596800&v=beta&t=kT9lE5hr7HgiCeIfv2GbrFKYzMJPZ7iOzP43k7es97Q"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "132",
+    "urn": "urn:li:person:132",
+    "localizedFirstName": "Avantika",
+    "localizedLastName": "Shukla",
+    "localizedHeadline": "Student at Woxsen University | MBA - Finance & Operations",
+    "publicProfileUrl": "https://linkedin.com/in/avantika-shukla-23a57231a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "133",
+    "urn": "urn:li:person:133",
+    "localizedFirstName": "Rajan",
+    "localizedLastName": "Gupta",
+    "localizedHeadline": "Program Manager @Woxsen University | Ex-Department Head-Amity University | Ex-Assistant professor-Amity University | Academic Manager | Digital Marketer | Data Analyst",
+    "publicProfileUrl": "https://linkedin.com/in/rajan-gupta-corps100",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHhieTqJcja8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700129563007?e=1763596800&v=beta&t=JQCs4l1R-Ecg8EmQKXGbyXGVcAsiQ85G4S8j5TJKLg4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "134",
+    "urn": "urn:li:person:134",
+    "localizedFirstName": "Yasaswini",
+    "localizedLastName": "GLC",
+    "localizedHeadline": "BBA'26 | Woxsen University | Digital Marketing | President - Ignite The Entrepreneurship club | VP-Office | Sustainability | CSR |",
+    "publicProfileUrl": "https://linkedin.com/in/yasaswini-glc",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEGRR1_1SR8mQ/profile-displayphoto-shrink_800_800/B4DZQmOzayHwAg-/0/1735808203273?e=1763596800&v=beta&t=feCheM8RD9ZDtiYKPXoHoNTFYR0KSnAM8sUlLEejcyM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "135",
+    "urn": "urn:li:person:135",
+    "localizedFirstName": "Nehal",
+    "localizedLastName": "Ahmad Nadwi",
+    "localizedHeadline": "Assistant Professor of Law, Woxsen University || Editor-in-chief, Woxsen Law Review || Research Coordinator || Associate Editor, IJMTKP || JRF (Law) || NLSIU, Bangalore",
+    "publicProfileUrl": "https://linkedin.com/in/nehal-ahmad-nadwi-392825177",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEmJM7icsG_yw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691853308448?e=1763596800&v=beta&t=1uqSXpuMe6UB-j1ZY9NUnXpsLoewMYJ8J3-TE721Za0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "136",
+    "urn": "urn:li:person:136",
+    "localizedFirstName": "Emmadi",
+    "localizedLastName": "Ravinder",
+    "localizedHeadline": "Deputy Manager - HR @ Woxsen University, Hyderabad.",
+    "publicProfileUrl": "https://linkedin.com/in/emmadi-ravinder-8aa611147",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQFuIhJ9wvhl9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664003927480?e=1763596800&v=beta&t=chOg465ddNBLGwGfzoWyiI_8mIP0KYy2-eujo-ZEld0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "137",
+    "urn": "urn:li:person:137",
+    "localizedFirstName": "Rajesh",
+    "localizedLastName": "kumar",
+    "localizedHeadline": "Associate Professor I Academician I Researcher I Leader I Mentor I Fashion Design I School of Arts and Design I Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/rajesh-kumar-8822a7a1",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEbpi2QBQv1tw/profile-displayphoto-shrink_800_800/B4DZQYCVHvHMAg-/0/1735570052515?e=1763596800&v=beta&t=ww2wXMcwD2bWaP8xiHTsqr9R3vzM_i8ygzR5DlsC85A"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "138",
+    "urn": "urn:li:person:138",
+    "localizedFirstName": "Imthiyaz",
+    "localizedLastName": "Mohammad",
+    "localizedHeadline": "PGDM | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/koundinyak",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "139",
+    "urn": "urn:li:person:139",
+    "localizedFirstName": "Yogesh",
+    "localizedLastName": "Dugar",
+    "localizedHeadline": "Masters of Business Administration 2024- Woxsen University | Finance | Marketing | Investor | Business Development Executive | Digital Marketing | Business",
+    "publicProfileUrl": "https://linkedin.com/in/yogeshdugar",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQH1gwHg-SWBPA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701776367526?e=1763596800&v=beta&t=q-7eSFzs-iZQEC1ZzMnKSHbRVmo1YB0ep9mjM90vjPk"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "140",
+    "urn": "urn:li:person:140",
+    "localizedFirstName": "Dr. Heena",
+    "localizedLastName": "Bhardwaj",
+    "localizedHeadline": "Seasoned Human Resource Management professional | Associate Professor Woxsen University (MBA-Faculty) | Program Director BBA | HR Strategy & Startup Consultant",
+    "publicProfileUrl": "https://linkedin.com/in/dr-heena-bhardwaj",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHlHYrZISZXkA/profile-displayphoto-crop_800_800/B56ZfKyy5LHoAI-/0/1751454003249?e=1763596800&v=beta&t=UnbHdaIDCb35Ut0-MD2v8jo0cnhje0zgOm2s_FdMHlM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "141",
+    "urn": "urn:li:person:141",
+    "localizedFirstName": "Rajavardhan",
+    "localizedLastName": "reddy",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/rajavardhan-reddy-325662343",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFf1a8ZHMKyKA/profile-displayphoto-shrink_800_800/B4DZYyiLd2HsAc-/0/1744604545955?e=1763596800&v=beta&t=X0WXQ-Enqnc32FwjehEPJlcqdYinS4eGlqnBYkUPmog"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "142",
+    "urn": "urn:li:person:142",
+    "localizedFirstName": "Neethu",
+    "localizedLastName": "V R",
+    "localizedHeadline": "Academic Coordinator - School of Business, Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/neethu-v-r-b36472154",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQE6CYfTvdWF3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702451304684?e=1763596800&v=beta&t=2eeY3KMK9CTEWyeeIS3lpXiaPJjUdbD98w9tyh25jqw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "143",
+    "urn": "urn:li:person:143",
+    "localizedFirstName": "Keerthivasan",
+    "localizedLastName": "S",
+    "localizedHeadline": "Media Researcher",
+    "publicProfileUrl": "https://linkedin.com/in/keerthivasan-s-400643224",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGhBYAqfKZiPg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723526079219?e=1763596800&v=beta&t=C2jgkrX1da1FOkdGhHI8CLDW6o2JToE_6GhnEJRSwZ4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "144",
+    "urn": "urn:li:person:144",
+    "localizedFirstName": "Dr.",
+    "localizedLastName": "S.Srinivas Rao",
+    "localizedHeadline": "Asst.Dean of Student Success and Assurance of Learning | Convenor Faculty Development Program Affinity Group.School of Business.",
+    "publicProfileUrl": "https://linkedin.com/in/dr-s-srinivas-rao-344006264",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHWvFrlpLR2Tw/profile-displayphoto-crop_800_800/B56ZnuNMklJoAI-/0/1760638062804?e=1763596800&v=beta&t=js3JKMA9z609dBOArZcYyc-OTqrbIp7Zsz2CYKydIA0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "145",
+    "urn": "urn:li:person:145",
+    "localizedFirstName": "Sankshita",
+    "localizedLastName": "Anand",
+    "localizedHeadline": "Visual designer | Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sankshita-anand-83099a203",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFJ_5qvcY3maw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724864126191?e=1763596800&v=beta&t=zmaNzCwkz5TwsRn-qLYAAeuqPhbYD8BJjvvLVqA0hJU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "146",
+    "urn": "urn:li:person:146",
+    "localizedFirstName": "Keerthana",
+    "localizedLastName": "Varma",
+    "localizedHeadline": "Communication and Finance Manager | Student Council President | PRME | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/keerthana-varma",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHWqILSJDXxzg/profile-displayphoto-shrink_800_800/B56ZfEMw8KH8Ak-/0/1751343371249?e=1763596800&v=beta&t=0jaCk0vNyJxHu9JlqDhwTTOauPh1TIcxy1lKXsv3_D8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "147",
+    "urn": "urn:li:person:147",
+    "localizedFirstName": "Sadhna,",
+    "localizedLastName": "PhD",
+    "localizedHeadline": "Associate Professor I Researcher I Mentor I Margaret Bishop Professor of Strategic Design and Management I Fashion Design I School of Arts and Design I Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sadhna-phd-27b6179b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEWwl83IWhWTQ/profile-displayphoto-shrink_800_800/B4DZS1E_20HAAc-/0/1738204774532?e=1763596800&v=beta&t=tiBh2uqcsSNKUN23eF--c8kKr-uXfkCVZ_Mky30-low"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "148",
+    "urn": "urn:li:person:148",
+    "localizedFirstName": "Deekshitha",
+    "localizedLastName": "Nayini",
+    "localizedHeadline": "E-Commerce and Digital Marketing | School of Business",
+    "publicProfileUrl": "https://linkedin.com/in/deekshithanayini",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "149",
+    "urn": "urn:li:person:149",
+    "localizedFirstName": "Ritesh",
+    "localizedLastName": "Ravva",
+    "localizedHeadline": "BBA Hons student at Woxsen University (Batch of 2028) with a focus on business strategy, leadership, and innovation. Open to learning, collaboration, and opportunities to contribute to the business world.",
+    "publicProfileUrl": "https://linkedin.com/in/ritesh-ravva-a38074326",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "150",
+    "urn": "urn:li:person:150",
+    "localizedFirstName": "Nishith",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Student at Woxsen University | School of Technology",
+    "publicProfileUrl": "https://linkedin.com/in/nishith-reddy-91b72525a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHpWaRr9x54SA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729492682457?e=1763596800&v=beta&t=x0WSPf2HfOdinvOmcdaCOyl2dKCsAIMgtMqb5860pKQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "151",
+    "urn": "urn:li:person:151",
+    "localizedFirstName": "Shreya",
+    "localizedLastName": "Patel",
+    "localizedHeadline": "Woxsen University'26 MBA | Marketing | Data Science and AI | National Institute of Fashion Technology'23",
+    "publicProfileUrl": "https://linkedin.com/in/shreyapatel25",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGnnZ1-USYTIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721654208862?e=1763596800&v=beta&t=Tbc4cwalz7VxAW6A4SsOwE-vyIp12LzuIe-EAk1JVsA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "152",
+    "urn": "urn:li:person:152",
+    "localizedFirstName": "Bhavana",
+    "localizedLastName": "Buddha",
+    "localizedHeadline": "Attended Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/bhavana-buddha-442a14323",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEEVjCfritYfg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1724152790693?e=1763596800&v=beta&t=EjRHlOCVkX56ekutogIqef1s3PSC4pOkYzClMYYFc9w"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "153",
+    "urn": "urn:li:person:153",
+    "localizedFirstName": "Radhika",
+    "localizedLastName": "Nidadavole",
+    "localizedHeadline": "Woxsen University, Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/radhika-nidadavole-85036720a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "154",
+    "urn": "urn:li:person:154",
+    "localizedFirstName": "Meena",
+    "localizedLastName": "Asam",
+    "localizedHeadline": "Executive Assistant to Dean, School of Sciences at Woxsen University | School of Science | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/meena-asam-925440177",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQG44j9LPEtxhA/profile-displayphoto-crop_800_800/B56ZgSfBt6IAAI-/0/1752656781923?e=1763596800&v=beta&t=cGd3wIkTietJXpBCm9iJj6r4Fer-orsdXGFppEJgpDM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "155",
+    "urn": "urn:li:person:155",
+    "localizedFirstName": "Neha",
+    "localizedLastName": "Suryavanshi",
+    "localizedHeadline": "Woxsen University | BBA + MBA | Secretary - Debate club",
+    "publicProfileUrl": "https://linkedin.com/in/neha-suryavanshi-071b7b325",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQE22ShCqPG2xw/profile-displayphoto-crop_800_800/B4EZj7ElYVGYAM-/0/1756558941702?e=1763596800&v=beta&t=izvXSeNsSarpVWFk-DFeCgasyKs403pZwLuFBzB6Occ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "156",
+    "urn": "urn:li:person:156",
+    "localizedFirstName": "Rohith",
+    "localizedLastName": "Srikrishna Varma",
+    "localizedHeadline": "Junior Scholar . Entrepreneur . Financial Services . \n School Representative - School of Business .\n Team Lead - International Relations.\n Woxsen University 2023-2026",
+    "publicProfileUrl": "https://linkedin.com/in/rohith-srikrishna-varma",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH8VoJzc6jd0Q/profile-displayphoto-shrink_800_800/B4DZZtp870G0Ag-/0/1745596436757?e=1763596800&v=beta&t=1F6cakZjx-36A25KTvAwDW_a0hy9bYUAQ3wXw0e4sEM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "157",
+    "urn": "urn:li:person:157",
+    "localizedFirstName": "Aashutosh",
+    "localizedLastName": "Gautam",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/aashutosh-gautam-50975b289",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQE4e13kNHcsbQ/profile-displayphoto-shrink_800_800/B4DZSULLKsHUAg-/0/1737652748452?e=1763596800&v=beta&t=yoZMad3NirqZ83-UEtYF7N7Qzz9JqsEdxhr25jNyIvM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "158",
+    "urn": "urn:li:person:158",
+    "localizedFirstName": "Suhas",
+    "localizedLastName": "Somepalli",
+    "localizedHeadline": "Law Student| Woxsen University| Exploring Diverse Areas of Law with a Passion for Legal Impact",
+    "publicProfileUrl": "https://linkedin.com/in/suhassomepalli-a827a7329",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEYu0Z0Hg3nrw/profile-displayphoto-shrink_800_800/B56Zf42NLgHQAg-/0/1752226649986?e=1763596800&v=beta&t=XioeiY_ABza9GX4yyORObswG0d4SK6CHkrBr4eE-W2I"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "159",
+    "urn": "urn:li:person:159",
+    "localizedFirstName": "Madhukar",
+    "localizedLastName": "Rathod",
+    "localizedHeadline": "Senior Research Manager | Woxsen University | Research and Development Cell | Higher Education |Academic Operation | Computer Skill |IPR Cell| Doctoral Program| Research Associate | Academic Programme",
+    "publicProfileUrl": "https://linkedin.com/in/madhukarrathod",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4E03AQGyWYNDzrx7ow/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1587329868040?e=1763596800&v=beta&t=dXY-fQB8DUj1rXTYgq655v6ShwliI-vAhtjGwg_lcfo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "160",
+    "urn": "urn:li:person:160",
+    "localizedFirstName": "Vanshika",
+    "localizedLastName": "Prakash",
+    "localizedHeadline": "Student at WOXSEN UNIVERSITY || Pursuing BBA - Data Science & AI || Intern at Woxsen Sports Academy ||Basketball Player ||",
+    "publicProfileUrl": "https://linkedin.com/in/vanshika-prakash-303348319",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGdkCYBMPuolQ/profile-displayphoto-shrink_800_800/B4DZUiU0Y3G8Ac-/0/1740037638618?e=1763596800&v=beta&t=jWXzb37HOfTQXbfXmF5Yv0x1vmLBh9ck8aBamFSTjSk"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "161",
+    "urn": "urn:li:person:161",
+    "localizedFirstName": "K .Pranaya",
+    "localizedLastName": "S",
+    "localizedHeadline": "Bachelors of Business Administrations| President-Just Naach | Woxsen University Co'26 |",
+    "publicProfileUrl": "https://linkedin.com/in/k-pranayas",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQE-3QK7wg0V3w/profile-displayphoto-shrink_800_800/B56ZWBdZuqHoAg-/0/1741633724271?e=1763596800&v=beta&t=v4ZLkFaGHu-yOenXJM0efVjEmjwlOtrl9kD8LFbbBIA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "162",
+    "urn": "urn:li:person:162",
+    "localizedFirstName": "Nithin",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/nithinreddy9669",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFNVYtzsdMYeg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682937188274?e=1763596800&v=beta&t=DE0IdgTDuxeivU0KEOQoCD9KMQSKQo21IGlVnBGXygo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "163",
+    "urn": "urn:li:person:163",
+    "localizedFirstName": "Harshny",
+    "localizedLastName": "Anand",
+    "localizedHeadline": "Student at Woxsen University | Interior design I Executive Head - Interior design club",
+    "publicProfileUrl": "https://linkedin.com/in/harshny-anand-1a60382a6",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH3isMmvFH-AQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714359011373?e=1763596800&v=beta&t=GnSpu6T2oPUuDaOS04cDXi0iyPWgNeBALTbjHAn9fCg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "164",
+    "urn": "urn:li:person:164",
+    "localizedFirstName": "Sai",
+    "localizedLastName": "Saketh",
+    "localizedHeadline": "WOXSEN UNIVERSITY | MBA GENERAL | 2024 | OPERATIONS | MARKETING",
+    "publicProfileUrl": "https://linkedin.com/in/saisakethj",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "165",
+    "urn": "urn:li:person:165",
+    "localizedFirstName": "Sanjeev",
+    "localizedLastName": "Koparde",
+    "localizedHeadline": "Corporate Relations and Placements-Woxsen University Hyderabad (School Of Business Management, School Of Engineering)",
+    "publicProfileUrl": "https://linkedin.com/in/sanjeev-koparde-b362429",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQFS4roS5zssdQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1611803541690?e=1763596800&v=beta&t=PHuGaXYP5uxHpcpsdLY9ItVkA_DV4jzSFMOvGDJu3AQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "166",
+    "urn": "urn:li:person:166",
+    "localizedFirstName": "Bhavya",
+    "localizedLastName": "Sree.Kuppam",
+    "localizedHeadline": "Student at Woxsen University | B.tech '27 | CSE core|python|web developer|IOT|AI&ML",
+    "publicProfileUrl": "https://linkedin.com/in/bhavya-sree-kuppam-900908293",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGuH9zvxApRtQ/profile-displayphoto-shrink_800_800/B4DZThm00vHkAc-/0/1738951844978?e=1763596800&v=beta&t=ALZBux9sp7ltaTsGU0NMcIsFFh441wblEHGGlLDLN1U"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "167",
+    "urn": "urn:li:person:167",
+    "localizedFirstName": "Rohith",
+    "localizedLastName": "Mahesh",
+    "localizedHeadline": "MBA(General),Specialization in Marketing and Operations, Woxsen University| Bachelor's in Business administration (Business analytics),Jain University",
+    "publicProfileUrl": "https://linkedin.com/in/rohith-mahesh",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGsAM4Vr7ZRyQ/profile-displayphoto-shrink_800_800/B4DZRLfx_kG4Ac-/0/1736433413727?e=1763596800&v=beta&t=9OlhygJp7WOhr4G7JMSzXeNBBg_J-hu6RODQd5mSuYA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "168",
+    "urn": "urn:li:person:168",
+    "localizedFirstName": "NIHAREEKA",
+    "localizedLastName": "MOHANTY",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/nihareeka-mohanty",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGADt-1IUHFHg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696338274472?e=1763596800&v=beta&t=RQjMIoyaPZ8PlN5WzN8rgrRLN5ho01y7459EMhZvU88"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "169",
+    "urn": "urn:li:person:169",
+    "localizedFirstName": "Joshua",
+    "localizedLastName": "Dalrymple, Esq.",
+    "localizedHeadline": "Executive Director and Lawyer - Somireddy Law Group, Hyderabad Office | Adjunct Professor of Law at Purdue University Global",
+    "publicProfileUrl": "https://linkedin.com/in/dalrymplelaw",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEUqQVxqVgOuA/profile-displayphoto-shrink_800_800/B4DZYBKmXmG8Ac-/0/1743776278292?e=1763596800&v=beta&t=Vuc-NncdV4dY7vZCrkFaOaFu6-S0WLvlyAcBVvVuJ7I"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "170",
+    "urn": "urn:li:person:170",
+    "localizedFirstName": "Akhilesh",
+    "localizedLastName": "Ram",
+    "localizedHeadline": "Vice President's Office, Intern (Woxsen University) | Ex- Akudo, upsurge | Executive - Marketing Crowdcore | Woxsen University | Product | Growth | Marketing | Finance",
+    "publicProfileUrl": "https://linkedin.com/in/akhilesh-ram",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFtUKML3Q_wXw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697573189845?e=1763596800&v=beta&t=cLvxJ6WFVW3en4ZSjST_tVyDgUiy6LA413a073_aEcQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "171",
+    "urn": "urn:li:person:171",
+    "localizedFirstName": "Manju",
+    "localizedLastName": "Shree",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/manju-shree-c",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFLiZt4JZcuPg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679545702754?e=1763596800&v=beta&t=oM65eLiL-q8aflS8PC4P0ejYVceKAdKNw3AKHDCqpng"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "172",
+    "urn": "urn:li:person:172",
+    "localizedFirstName": "Fadhil",
+    "localizedLastName": "Khan",
+    "localizedHeadline": "Individual Talent hunter | Chief organizer| HR Communications | MBA (2021-2023) | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/fadhil-khan",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHggWrJlg_kqw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673417236425?e=1763596800&v=beta&t=RAUrPNaN4CKgsjwBiDsmaSgK0WjLAA6pVZHOEox58OQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "173",
+    "urn": "urn:li:person:173",
+    "localizedFirstName": "Pavithra",
+    "localizedLastName": "C",
+    "localizedHeadline": "Student at Woxsen University | BBA | Decision Sciences and Artifical Intelligence",
+    "publicProfileUrl": "https://linkedin.com/in/pavithra-c-ba17ab2a0",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "174",
+    "urn": "urn:li:person:174",
+    "localizedFirstName": "Neha",
+    "localizedLastName": "Kapoor",
+    "localizedHeadline": "MBA| Woxsen University | Amity University | BBA-Human Resource Management",
+    "publicProfileUrl": "https://linkedin.com/in/neha-kapoor-08b89a319",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGZJTXwN-CHAQ/profile-displayphoto-shrink_800_800/B56ZXhEE7hGUAg-/0/1743237698852?e=1763596800&v=beta&t=zMT607c6cWWkf0udtuwLLTxuLITUD20o34-xdDCh3V4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "175",
+    "urn": "urn:li:person:175",
+    "localizedFirstName": "Street Cause",
+    "localizedLastName": "Woxsen",
+    "localizedHeadline": "Street Cause at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/street-cause-woxsen2324",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQF0NCyD7xMeeg/profile-displayphoto-crop_800_800/B56Zj0GLQwIAAM-/0/1756441918765?e=1763596800&v=beta&t=ItpxKf8TGHpwDC6eWdk8KwCgjsyo8J-fXFkl7j1CeWQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "176",
+    "urn": "urn:li:person:176",
+    "localizedFirstName": "Abhishek",
+    "localizedLastName": "Jadhav",
+    "localizedHeadline": "Problem Solving, Customer Engagement || Senior Gateway Executive @ Woxsen University || Ex-JLL",
+    "publicProfileUrl": "https://linkedin.com/in/abhishek-jadhav-05a51619b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFyixpQrNaChA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713502129550?e=1763596800&v=beta&t=sdJ5uxaxiJRVkEZmp61250eZBeC2NtGvn_PYK10sUAQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "177",
+    "urn": "urn:li:person:177",
+    "localizedFirstName": "D.Sri Pratham",
+    "localizedLastName": "Yadav",
+    "localizedHeadline": "Student at Woxsen University | BBA Digital Marketing and E-commerce",
+    "publicProfileUrl": "https://linkedin.com/in/d-sri-pratham-yadav-639075296",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHveSupGYIY6w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700035283413?e=1763596800&v=beta&t=8HLahtNylYB42Yl5c-iJIv_9S-2694Ql8wSLP_3LpVA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "178",
+    "urn": "urn:li:person:178",
+    "localizedFirstName": "Sowjanya",
+    "localizedLastName": "Tamalapakula",
+    "localizedHeadline": "Associate Professor at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sowjanya-tamalapakula-4a4b3b352",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHoN69mfSxAGA/profile-displayphoto-shrink_800_800/B56ZU2wpieGoAg-/0/1740380478324?e=1763596800&v=beta&t=qHqgUBa9lxSroSp7NIQvU7aIjZUM_do-MO-lrldZ4a0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "179",
+    "urn": "urn:li:person:179",
+    "localizedFirstName": "Adya",
+    "localizedLastName": "Rao",
+    "localizedHeadline": "Student at Woxsen University/ psychology",
+    "publicProfileUrl": "https://linkedin.com/in/adya-rao-8105112aa",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQHSv0ZJJhgwcw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715239571639?e=1763596800&v=beta&t=fR8XRINzl835usAuCIt-2QqrH_cGy7eXdAvTq8khH_w"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "180",
+    "urn": "urn:li:person:180",
+    "localizedFirstName": "Zia",
+    "localizedLastName": "Ali",
+    "localizedHeadline": "Psychology, Philosophy & Business | Writer | Model | Activist | Queerness | Spirituality âœ¨",
+    "publicProfileUrl": "https://linkedin.com/in/zia4ali",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQElxVAQgVUh4g/profile-displayphoto-shrink_800_800/B4DZSw.fyZHIAk-/0/1738135961857?e=1763596800&v=beta&t=K_bIipm21S46ntLOVxj72jPHDURJvJ_YRAizLzTv3Cg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "181",
+    "urn": "urn:li:person:181",
+    "localizedFirstName": "Mohnish Singh",
+    "localizedLastName": "Patwal",
+    "localizedHeadline": "Future Leader | BBA+MBA (Woxsen University) | B.A Political Science (Sikkim Manipal University) | 2025-Case Crunch 2.0 Champion ðŸ_x008f_† |\n \n Finance, operations and Marketing Enthusiast | Political Science Student",
+    "publicProfileUrl": "https://linkedin.com/in/mohnish-singh-patwal-760979202",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGaQeobni0r4g/profile-displayphoto-shrink_800_800/B56Zgidm_yHcAc-/0/1752924846214?e=1763596800&v=beta&t=R7DsJChGu7TbzvhR--nNE5EWSkcUt6HhQ4EHM2PKUDQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "182",
+    "urn": "urn:li:person:182",
+    "localizedFirstName": "Sri",
+    "localizedLastName": "Harshavardhan Yadav",
+    "localizedHeadline": "MBA Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sriharshamorri",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHJn8uhKkVqHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685314996033?e=1763596800&v=beta&t=d_f9Gagdj2zi57TVRwMgFALJP_lgthVnaI-jb1OQMjI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "183",
+    "urn": "urn:li:person:183",
+    "localizedFirstName": "VED",
+    "localizedLastName": "PATEL",
+    "localizedHeadline": "Student at Woxsen University | Content Creator & Writer | Storyteller | Passion for Innovation | Film Directing and Making",
+    "publicProfileUrl": "https://linkedin.com/in/vedpatel87",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGkv5_lMby-gA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726173302253?e=1763596800&v=beta&t=g-b506AYDCUDjazeFvnlPv5peemEC_Kw68AlaLq2LrY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "184",
+    "urn": "urn:li:person:184",
+    "localizedFirstName": "praveen",
+    "localizedLastName": "kumar",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/praveen-kumar-207baa1bb",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "185",
+    "urn": "urn:li:person:185",
+    "localizedFirstName": "Vivek",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Student at woxsen university",
+    "publicProfileUrl": "https://linkedin.com/in/-vivek-reddy-",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFDoHA4a1J7TQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714905874859?e=1763596800&v=beta&t=WtG1QjLmBhiRSlVbhcjPVcBePeIfCsC2rsrViQ-ShIc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "186",
+    "urn": "urn:li:person:186",
+    "localizedFirstName": "Tanvi",
+    "localizedLastName": "Thakur",
+    "localizedHeadline": "Woxsen Universityâ€™25 | MBA Financial Services",
+    "publicProfileUrl": "https://linkedin.com/in/tanvithakur2712",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHnKxZcgXq3lQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700060296682?e=1763596800&v=beta&t=wES0eLQN9p3VNXaFtCVBeYLqqywUGPzGNISVrKfGQ8A"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "187",
+    "urn": "urn:li:person:187",
+    "localizedFirstName": "Kanchan",
+    "localizedLastName": "Tiwari",
+    "localizedHeadline": "Research Manager | Assistant Researcher | Research and Development Cell | Higher Education | Academic Operation \n Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/kanchan-tiwari1811",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C4D03AQGPceFMX204Zw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1539022871263?e=1763596800&v=beta&t=s378dmC6pBh35wD32acRApKifdlisUwxW5grNaNS5DA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "188",
+    "urn": "urn:li:person:188",
+    "localizedFirstName": "Anjli",
+    "localizedLastName": "Sreekumar",
+    "localizedHeadline": "Student at Woxsen University | School of Arts & Design | Communication Design |",
+    "publicProfileUrl": "https://linkedin.com/in/anjli-sreekumar",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHLol7g2GtiTw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692870177128?e=1763596800&v=beta&t=bvEWoRS-_Z2ZNITQiR-d-xQGfnE0tRLZ9jXnoQyRlsI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "189",
+    "urn": "urn:li:person:189",
+    "localizedFirstName": "Woxsen Product",
+    "localizedLastName": "Design Club",
+    "localizedHeadline": "Student club at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/woxsen-product-design-club-19483631a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQG7q9U2g88nCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721493056363?e=1763596800&v=beta&t=uKxOQejmaWGY2DfjdCI8oZMGCWQyCO6zqYc00F7px1M"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "190",
+    "urn": "urn:li:person:190",
+    "localizedFirstName": "Rushi",
+    "localizedLastName": "Vardhan",
+    "localizedHeadline": "STUDENT AT WOXSEN UNIVERSITY BACHELOR OF TECHNOLOGY| RESEARCH ASSISTANT | ARTIFICIAL INTELLIGENCE | MACHINE LEARNING | DATA SCIENCE",
+    "publicProfileUrl": "https://linkedin.com/in/rushi-vardhan-09a7a7200",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQEDfPxI5ytBRw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640838967170?e=1763596800&v=beta&t=Yi2Jr52QrWZ6aVvnU9xn4CXwsyv_4vD6U0q7fnGrqR8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "191",
+    "urn": "urn:li:person:191",
+    "localizedFirstName": "Zaid",
+    "localizedLastName": "Umair",
+    "localizedHeadline": "Placement Coordinator @ Woxsen University | Business Analyst.",
+    "publicProfileUrl": "https://linkedin.com/in/zaid-umair-01z10",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHtdh4fFBNgZA/profile-displayphoto-crop_800_800/B56Zk9le8gIAAI-/0/1757674863086?e=1763596800&v=beta&t=bbG7cCnYqWBXGX46ua38VqgXcCN2ru38MAiT8cLNME8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "192",
+    "urn": "urn:li:person:192",
+    "localizedFirstName": "Mohsina",
+    "localizedLastName": "Aiman",
+    "localizedHeadline": "Student at Woxsen University\n BBA-LLB || Law || Fashion | AI | Writer | Entrepreneurship",
+    "publicProfileUrl": "https://linkedin.com/in/mohsinaaiman",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGgLYXp96oKXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710749923596?e=1763596800&v=beta&t=_20eee17ursYZ_18EdnnVXf3SiPjYuq4dpB50wvlo5U"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "193",
+    "urn": "urn:li:person:193",
+    "localizedFirstName": "Bharathi",
+    "localizedLastName": "Gamgula",
+    "localizedHeadline": "PhD | Research Scholar | School of Technology | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/bharathi-gamgula-98a87b216",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHjwrNNQQdGyQ/profile-displayphoto-shrink_800_800/B56ZZQ7M66GUAc-/0/1745114420421?e=1763596800&v=beta&t=EV0i5MPFK5k7CWL4yO0avwKbMhd3CpA1tdgnVPFBgZs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "194",
+    "urn": "urn:li:person:194",
+    "localizedFirstName": "hari priya",
+    "localizedLastName": "parasa",
+    "localizedHeadline": "| Woxsen university| BBAâ€™25| Digital marketing and e-commerce|",
+    "publicProfileUrl": "https://linkedin.com/in/hari-priya-parasa-8a88111ba",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "195",
+    "urn": "urn:li:person:195",
+    "localizedFirstName": "Vishwa",
+    "localizedLastName": "KD",
+    "localizedHeadline": "MBAâ€™24 | Business Analytics at Woxsen University | BCom finance |",
+    "publicProfileUrl": "https://linkedin.com/in/vishwa-kd",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQGl9PPCEICqPQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1659722829088?e=1763596800&v=beta&t=YuhbKmXaEaKb4qqvS0sEsJ_vd3sm0YIaRg6iEnsFRuY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "196",
+    "urn": "urn:li:person:196",
+    "localizedFirstName": "UNNATI",
+    "localizedLastName": "GUPTA",
+    "localizedHeadline": "Program Manager (Woxsen University) | Ex-Uolo Edtech | Paytm | MagicPin | Unilex | AWS Cloud Practitioner",
+    "publicProfileUrl": "https://linkedin.com/in/unnati-gupta-321530129",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "197",
+    "urn": "urn:li:person:197",
+    "localizedFirstName": "Disha",
+    "localizedLastName": "Agarwal",
+    "localizedHeadline": "Student at Woxsen University | Artificial Intelligence and Machine Learning | Executive Member - Codex",
+    "publicProfileUrl": "https://linkedin.com/in/disha-agarwal-234507272",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQE6rDJvV5IEiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719023499093?e=1763596800&v=beta&t=oE4UEJ1vnAHn89lOI8DMljpeqSP-4yMm0cJhCmc-YdQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "198",
+    "urn": "urn:li:person:198",
+    "localizedFirstName": "Bhagwat",
+    "localizedLastName": "Gupta",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/bhagwat-gupta-190b3b225",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQH41oPZflMpUA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636403394394?e=1763596800&v=beta&t=5qq7ra5Yd7zzyTRcz4LtlM-0jmSkxlgQkdCoNXFxp14"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "199",
+    "urn": "urn:li:person:199",
+    "localizedFirstName": "Shubham",
+    "localizedLastName": "Mehta",
+    "localizedHeadline": "Woxsen University | School of Business | Bachelor of Business Administration 2024",
+    "publicProfileUrl": "https://linkedin.com/in/shubham-mehta-905773246",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHTyHBufW86qA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715840091588?e=1763596800&v=beta&t=V6THaYguUU9fFo5TcvLWibog2HWeal0uU-MP9jdOIuY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "200",
+    "urn": "urn:li:person:200",
+    "localizedFirstName": "S",
+    "localizedLastName": "V",
+    "localizedHeadline": "Registrar @ Woxsen University, Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/s-v-68336540",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQHEotBCEt6Jug/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516898775846?e=1763596800&v=beta&t=eg3WmAdJhROf4Mx-WeAj4TC2TTwd9MwFY077fRcPb1A"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "201",
+    "urn": "urn:li:person:201",
+    "localizedFirstName": "VINODH",
+    "localizedLastName": "SELVAM",
+    "localizedHeadline": "MBAâ€™26 at Woxsen University I Executive-COE International Taxations",
+    "publicProfileUrl": "https://linkedin.com/in/vinodh-selvam-16594831a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEjg7zxBAINFw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721540284667?e=1763596800&v=beta&t=ptban3xUsNwkZiDiS63-dibDTcBbjtYgFAfh4T5r7lg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "202",
+    "urn": "urn:li:person:202",
+    "localizedFirstName": "Vardhan",
+    "localizedLastName": "Tated",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/vardhan-tated-3255a9324",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQGMNLV7ivTM4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726826288706?e=1763596800&v=beta&t=429wMp0qybkMmp9QgeC4eB8y0kS855VeQWMDRdb8RqM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "203",
+    "urn": "urn:li:person:203",
+    "localizedFirstName": "Suyash",
+    "localizedLastName": "Dwivedi",
+    "localizedHeadline": "Pursuing MBA At Woxsen University | Digital Marketing Enthusiast | Seeking Job Opportunities",
+    "publicProfileUrl": "https://linkedin.com/in/suyashdwivedi-sd",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFs6veqpwC-VA/profile-displayphoto-shrink_800_800/B4DZdgDvUMHAA0-/0/1749663283177?e=1763596800&v=beta&t=2Niy0Ir2QoNkJGhtiRTYtlLNNu85pVFn-uB3npv15xY"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "204",
+    "urn": "urn:li:person:204",
+    "localizedFirstName": "Vijay",
+    "localizedLastName": "Adithya",
+    "localizedHeadline": "Student at Woxsen University | BBA | Data science with artificial intelligence | Vice President- Student Welfare |",
+    "publicProfileUrl": "https://linkedin.com/in/vijay-adithya-015a032a2",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGCnCn-Sf_WDg/profile-displayphoto-shrink_800_800/B4DZXNajX7H4Ac-/0/1742908046795?e=1763596800&v=beta&t=wLY50Sug-_rH9PVsMHYe9efF_CMAe_o-SScBex2AS7w"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "205",
+    "urn": "urn:li:person:205",
+    "localizedFirstName": "Bhuvin",
+    "localizedLastName": "sai",
+    "localizedHeadline": "BTECH | 4th year | Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/bhuvin-sai-884a30260",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGWZg3B6xTCCg/profile-displayphoto-shrink_800_800/B56ZTwYwNlHEAg-/0/1739199812236?e=1763596800&v=beta&t=1zt5mVZm4FCq_9I40CLYarYSJjurPChJY6DQRsPs4AI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "206",
+    "urn": "urn:li:person:206",
+    "localizedFirstName": "D Aruna",
+    "localizedLastName": "Priya",
+    "localizedHeadline": "Student | Woxsen University | Btech'26 | Data Science |",
+    "publicProfileUrl": "https://linkedin.com/in/d-aruna-priya-b74b98254",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEmDRNp4qeoCA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696514984464?e=1763596800&v=beta&t=5zAr38EqEyh_DPaoZlRZmUTcUh2fA4t0AkMEBsLs6HQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "207",
+    "urn": "urn:li:person:207",
+    "localizedFirstName": "Dr. Lakshmi Prasanna",
+    "localizedLastName": "Aryavalli",
+    "localizedHeadline": "Program Manager @ Woxsen University \"Empowering Growth and Excellence: Leadership | Training | Strategic management | Transformative learning experience | Six Sigma and Organisation | Management | Excellence",
+    "publicProfileUrl": "https://linkedin.com/in/dr-lakshmi-prasanna-aryavalli-1b9688311",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQHGsEa8vR95Ag/profile-displayphoto-shrink_800_800/B4EZT4gA4IHUAc-/0/1739335929964?e=1763596800&v=beta&t=jZOxi54FO7Fmbu0x4WmBNbvfVbdYX9BRGN3AAfYHcxg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "208",
+    "urn": "urn:li:person:208",
+    "localizedFirstName": "Yagnashri",
+    "localizedLastName": "Karnati",
+    "localizedHeadline": "Student at Woxsen University|Biotechnology and Chemistry | Woxsen University |Senior Executive of spectrum-science club",
+    "publicProfileUrl": "https://linkedin.com/in/yagnashri-karnati",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFnZMesZ69b7A/profile-displayphoto-crop_800_800/B56Zkd2LhMHUAI-/0/1757142367786?e=1763596800&v=beta&t=d1OF-sQAq4EWrAJz4wf6aebcRUvz4WRIEbvK1mKrKXM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "209",
+    "urn": "urn:li:person:209",
+    "localizedFirstName": "Jashmitha",
+    "localizedLastName": "Tunga",
+    "localizedHeadline": "MBA (GM), Woxsen University | BBA (HR and Marketing), KCDC",
+    "publicProfileUrl": "https://linkedin.com/in/jashmithatunga22",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQHtodZl37oIGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658926779125?e=1763596800&v=beta&t=Zgv9hxb5z2btL8_EBYn9UVA6YrwNKHVPXB6YT8l0e1s"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "210",
+    "urn": "urn:li:person:210",
+    "localizedFirstName": "Dr. Rohin",
+    "localizedLastName": "Gaddam",
+    "localizedHeadline": "Assistant Professor, Woxsen University;\n Area Chair, Business Studies;\n PhD (Economics), UoH",
+    "publicProfileUrl": "https://linkedin.com/in/dr-rohin-gaddam",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQE7rqStEjs_Rw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714231244699?e=1763596800&v=beta&t=wOSMGIXtVZiF4dfaPq67ohnfulmFYSu1Zh2yBi2V_98"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "211",
+    "urn": "urn:li:person:211",
+    "localizedFirstName": "Niharika",
+    "localizedLastName": "Chithanoori",
+    "localizedHeadline": "Program Manager at Woxsen University/ Ea-Dean - School of Technology .",
+    "publicProfileUrl": "https://linkedin.com/in/niharika-chithanoori-65a7a3211",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGcuuJG6Povww/profile-displayphoto-crop_800_800/B56ZnswUhdI0AI-/0/1760613715844?e=1763596800&v=beta&t=OkgKgHCfHMtBthtfnTSIo2HkOeesZcFiGEqYJ7rmeKQ"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "212",
+    "urn": "urn:li:person:212",
+    "localizedFirstName": "Mohammed Ghouse",
+    "localizedLastName": "Mohiuddin Siddiqui",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/mohammed-ghouse-mohiuddin-siddiqui",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEp4zfQIKHAAA/profile-displayphoto-crop_800_800/B4DZjX9y3dG8AM-/0/1755969959402?e=1763596800&v=beta&t=3sue71yZsgzr2Xo5l8qGWrct-bCQLp1hRZmmbFfYT5g"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "213",
+    "urn": "urn:li:person:213",
+    "localizedFirstName": "Amisha",
+    "localizedLastName": "agarwal",
+    "localizedHeadline": "Student at woxsen university.\n ðŸ_x008f_€ Athlete | Future Entrepreneur | Leader in the Making",
+    "publicProfileUrl": "https://linkedin.com/in/amisha-agarwal-84087b2a6",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGpOOcbQKuE3g/profile-displayphoto-shrink_800_800/B56ZXEZ9w5HoAc-/0/1742756897392?e=1763596800&v=beta&t=HW1HKZt5qkWsEG-eFEyaigJ-w7g31eTEmmf_msc0IhA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "214",
+    "urn": "urn:li:person:214",
+    "localizedFirstName": "SK",
+    "localizedLastName": "RAISA",
+    "localizedHeadline": "Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sk-raisa-8685292b0",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHt4Ru-rwdjhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712227383638?e=1763596800&v=beta&t=HsaA1OKULeWM6ShghDj1yb79HNSMut1F9qlB8EkZcDA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "215",
+    "urn": "urn:li:person:215",
+    "localizedFirstName": "Puneeth",
+    "localizedLastName": "K",
+    "localizedHeadline": "SOAD | Woxsen University | UX Designer | Entrepreneur",
+    "publicProfileUrl": "https://linkedin.com/in/puneeth25",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEBP8IirslK8g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721580524100?e=1763596800&v=beta&t=kCApyYV6cnFn7pycR0EIMyywIyP_lXl7X_hNYgvA8ug"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "216",
+    "urn": "urn:li:person:216",
+    "localizedFirstName": "Karthik",
+    "localizedLastName": "Vikranth",
+    "localizedHeadline": "Attended Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/karthik-vikranth-090b73260",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHpelsP4mDpKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710093448973?e=1763596800&v=beta&t=n1KaHqSjz8sJFY7-K-leZ6O9AwzIZ3vyDwkZhR4cNds"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "217",
+    "urn": "urn:li:person:217",
+    "localizedFirstName": "Lakshmi Nivas",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/lakshmi-nivas-reddy-a056972a7",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQF6STR-f5j_MA/profile-displayphoto-crop_800_800/B4EZk.VNaUKsAI-/0/1757687373469?e=1763596800&v=beta&t=tX1dNhwGeHe5px7JmQYiURma0t0jkikkYGkX-QAXHIA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "218",
+    "urn": "urn:li:person:218",
+    "localizedFirstName": "Sravani",
+    "localizedLastName": "Purana",
+    "localizedHeadline": "Senior HR Executive at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sravani-purana-129b17336",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQG91nHYeeueog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730801492780?e=1763596800&v=beta&t=uvrSVyzKW8A0uYWXbmkvqvwI4G1_8r_fR8CkXqB0sUE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "219",
+    "urn": "urn:li:person:219",
+    "localizedFirstName": "Shreya",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Woxsen University | MBA Financial Services | Vice President - Ankur Club (IIC)",
+    "publicProfileUrl": "https://linkedin.com/in/shreya-reddy-6368a925b",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "220",
+    "urn": "urn:li:person:220",
+    "localizedFirstName": "Niya",
+    "localizedLastName": "Jain",
+    "localizedHeadline": "Student at Woxsen University | BBA(hons.) - Digital marketing & E-commerce",
+    "publicProfileUrl": "https://linkedin.com/in/niya-jain-129a37325",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHdk0o1K2WD5A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725444613962?e=1763596800&v=beta&t=mOd4q5my-LX9ThKSeg7WDr8dTb5RWs0l35_ePM6mfIE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "221",
+    "urn": "urn:li:person:221",
+    "localizedFirstName": "Abdul",
+    "localizedLastName": "Basith",
+    "localizedHeadline": "Marketing | Advertising | Digital Marketing | Operations | Excel | MBA 26' Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/abdulbasith08",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHm5Ru-0gXmyw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725256205698?e=1763596800&v=beta&t=KOxx021cGIk002HUB2mYpQEgML6fPpzj2DXmi64qXGw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "222",
+    "urn": "urn:li:person:222",
+    "localizedFirstName": "Bhavya sai",
+    "localizedLastName": "Karnati",
+    "localizedHeadline": "Student at Woxsen university",
+    "publicProfileUrl": "https://linkedin.com/in/bhavya-sai-karnati-a327431aa",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEBLq-OlcoPtw/profile-displayphoto-crop_800_800/B56Zn2PmaiJoAI-/0/1760772911925?e=1763596800&v=beta&t=kZznXafP26mU4wZwjQMfO8mBB4ujcDrnoFfY-H9Tri8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "223",
+    "urn": "urn:li:person:223",
+    "localizedFirstName": "Vikas",
+    "localizedLastName": "Reddy .P",
+    "localizedHeadline": "Student at IBS Banglore \n MBA-2025-27 \n \n Woxsen university \n BBA-2022-2025",
+    "publicProfileUrl": "https://linkedin.com/in/vikas-reddy-p-7918b3273",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEkbUhRwzoAKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682230018251?e=1763596800&v=beta&t=5Lt7LOjXLhb13uVGINiNG9pH5HXHkEfDNuOaYCmz0jI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "224",
+    "urn": "urn:li:person:224",
+    "localizedFirstName": "Karan",
+    "localizedLastName": "Vishwanath",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/karan-vishwanath-1932b4291",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "225",
+    "urn": "urn:li:person:225",
+    "localizedFirstName": "Aditi",
+    "localizedLastName": "Baggu",
+    "localizedHeadline": "Associate Consultant @ Cprime | INRY || B.Tech || Woxsen University || Computer Science and Engineering",
+    "publicProfileUrl": "https://linkedin.com/in/aditi-baggu-701151227",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEXPlBp2O0zTQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718975765760?e=1763596800&v=beta&t=62zze--_BF3vD0W51JSwZVI4cTGUW430csOmVBH-W6I"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "226",
+    "urn": "urn:li:person:226",
+    "localizedFirstName": "Abhishek",
+    "localizedLastName": "Chatterjee",
+    "localizedHeadline": "Internationalization | Global Higher Education | Global Partnership | Cross-Cultural Relations | Global Student Mobility | Immersion Programs at Woxsen University Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/abhishek-chatterjee-b824b2b6",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGkcvsRuzrTRQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685282708881?e=1763596800&v=beta&t=IiuY4Fs1jZdIE0rto5eWDeolXO8YV87Ka6iWTImyk5Q"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "227",
+    "urn": "urn:li:person:227",
+    "localizedFirstName": "Suresh Ragul",
+    "localizedLastName": "Arumugam",
+    "localizedHeadline": "Design Student at Woxsen University/ School of art and design/Fashion Designing student/divine art and sculpture",
+    "publicProfileUrl": "https://linkedin.com/in/suresh-ragul-arumugam-355bbb252",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEhFGT9wVLoXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1670488987342?e=1763596800&v=beta&t=blcQBuXA4oVtUER27kZFtyyYw15fKqKN383mvzC81-k"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "228",
+    "urn": "urn:li:person:228",
+    "localizedFirstName": "Anjali",
+    "localizedLastName": "Kalle",
+    "localizedHeadline": "BA Hons. English at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/anjali-kalle-303a85271",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQH5Y0cuq0AxJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693273776131?e=1763596800&v=beta&t=kRGlAsCzIUG8qBNxFocQN5Pq_jR1DdObX5KLHNvMsn0"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "229",
+    "urn": "urn:li:person:229",
+    "localizedFirstName": "SATHVIK",
+    "localizedLastName": "REDDY",
+    "localizedHeadline": "BBA LLB 2028 | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/sathvik-reddy-4a9430291",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "230",
+    "urn": "urn:li:person:230",
+    "localizedFirstName": "Shradha",
+    "localizedLastName": "Badsheshi",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/shradhabadsheshi",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQEJcwNJH3mYUw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1660824533400?e=1763596800&v=beta&t=yHB47MEAjvJv_IVZUZQJvQnM-lnq7SXw1QVBhubHdZ4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "231",
+    "urn": "urn:li:person:231",
+    "localizedFirstName": "Bhaskar",
+    "localizedLastName": "More",
+    "localizedHeadline": "Pursuing MBA(FS) at Woxsen University 2025-2027",
+    "publicProfileUrl": "https://linkedin.com/in/bhaskar-more",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQFvIdEASnT2dQ/profile-displayphoto-crop_800_800/B4EZme7kIbIQAI-/0/1759308044912?e=1763596800&v=beta&t=J8Jf_KL0gU39HaEQwR18i_JtWYccxsRObQoVkMDlzo8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "232",
+    "urn": "urn:li:person:232",
+    "localizedFirstName": "Mohammad",
+    "localizedLastName": "Sameer",
+    "localizedHeadline": "Center Head",
+    "publicProfileUrl": "https://linkedin.com/in/mohammad-sameer-80897124",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQG1o9BfzvNSvg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730174806798?e=1763596800&v=beta&t=g23AQw2jGBQpxT0iLYm7ZVDrlcOkvM_IuvDEYZLcgc8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "233",
+    "urn": "urn:li:person:233",
+    "localizedFirstName": "Babitha",
+    "localizedLastName": "S",
+    "localizedHeadline": "Attended Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/babitha-s-6576b1326",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEE4KfjZrapmg/profile-displayphoto-shrink_800_800/B4EZQh.4y1GcAg-/0/1735736922555?e=1763596800&v=beta&t=Sr5ymwMxma80w1i5_KTeD8vPtDM8KpzE_GRiqWw3K7U"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "234",
+    "urn": "urn:li:person:234",
+    "localizedFirstName": "Sudhan",
+    "localizedLastName": "Guru",
+    "localizedHeadline": "ERS-Project Manager @Woxsen University | Community Development Specialist | Political Adviser | Disaster Risk Reduction | Researcher | UN SDGs | Sustainability expert |",
+    "publicProfileUrl": "https://linkedin.com/in/sudhan-guru-10378516a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQGR2FLUUehgeA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732808689047?e=1763596800&v=beta&t=0jzafqkbEXncGrt73VV7q94IQVHFXwp-d3sS3m2nuIo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "235",
+    "urn": "urn:li:person:235",
+    "localizedFirstName": "Nihal",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "BBA Student at Woxsen University | Aspiring Marketer | Video Editor | Passionate about Branding & Creative Strategy",
+    "publicProfileUrl": "https://linkedin.com/in/nihalreddyy",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQHN-S9rvZcICg/profile-displayphoto-shrink_800_800/B4DZboc7LyHsAg-/0/1747656620053?e=1763596800&v=beta&t=57_Tj-JnWwfvQSAAzLlLzhnbd2e9zOI2Iz4ILczkoD8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "236",
+    "urn": "urn:li:person:236",
+    "localizedFirstName": "V Charan",
+    "localizedLastName": "Varma",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/v-charan-varma-67941825a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQGqisuEi62Tig/profile-displayphoto-shrink_800_800/B56ZfHDF8fH8Ac-/0/1751391169542?e=1763596800&v=beta&t=8rC-BQbRi53E2tjKBbRBtBZwn4FvbMNEibtsVVWhp7A"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "237",
+    "urn": "urn:li:person:237",
+    "localizedFirstName": "Manush",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Undergraduate | Woxsen University | Computer Science and Engineering",
+    "publicProfileUrl": "https://linkedin.com/in/manush-reddy-51b3b5280",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQF55w-AMIz4zQ/profile-displayphoto-shrink_800_800/B4DZSMmmJwHIAc-/0/1737525716101?e=1763596800&v=beta&t=P1ee1GrM65NVrFEbS8saWQkGpnORykH5a8FSXiv4dtA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "238",
+    "urn": "urn:li:person:238",
+    "localizedFirstName": "G Sharath",
+    "localizedLastName": "Reddy",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/g-sharath-reddy-7294aa246",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQFc0YhBM10eXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699720417005?e=1763596800&v=beta&t=-gzhOchzcn1Ued-1Rk41nZqvojw8DIfeSJse06rUUzw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "239",
+    "urn": "urn:li:person:239",
+    "localizedFirstName": "Janhit -",
+    "localizedLastName": "Public Policy",
+    "localizedHeadline": "Club at Woxsen University at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/publicpolicywoxsen",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQET3O3EBJk48w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708599600961?e=1763596800&v=beta&t=j8PmD9OFHookPvlYUylv9YK61y_v4-NzLnsJGlyfaeA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "240",
+    "urn": "urn:li:person:240",
+    "localizedFirstName": "Mahiraj",
+    "localizedLastName": "Singh",
+    "localizedHeadline": "MBA student at WOXSEN UNIVERSITY",
+    "publicProfileUrl": "https://linkedin.com/in/mahirajsingh",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQH5NWO1PzIVBA/profile-displayphoto-shrink_800_800/B4DZRA7PqpGUAg-/0/1736256061387?e=1763596800&v=beta&t=ANFpo8ki4ikFagMxGrro0t3aEAmuilodQTchB8313hI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "241",
+    "urn": "urn:li:person:241",
+    "localizedFirstName": "Nuthan Venkata Sai",
+    "localizedLastName": "Yalla",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/yallanuthan06",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQF3yVUaaoPlvQ/profile-displayphoto-crop_800_800/B4DZlx8JdaHsAI-/0/1758553218830?e=1763596800&v=beta&t=H8taZYah4f2WrrhmPlmHYD9GiZ761yNBi89VLVkMcLs"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "242",
+    "urn": "urn:li:person:242",
+    "localizedFirstName": "Mogili likitha",
+    "localizedLastName": "Bhavani reddy",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/mogili-likitha-bhavani-reddy",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQHljBLRRPwVUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1596952492763?e=1763596800&v=beta&t=qqZ1tRHEZa9jYSOk0O8dxT1Hp8Qrww8Q9pPOY4200j8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "243",
+    "urn": "urn:li:person:243",
+    "localizedFirstName": "Aaron",
+    "localizedLastName": "Jose",
+    "localizedHeadline": "Student at Woxsen University | BBA(Hons.) | Financial Services",
+    "publicProfileUrl": "https://linkedin.com/in/aaron-jose-844041326",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQFgBzII-EfMkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724958041782?e=1763596800&v=beta&t=HPYkaAl-9v6ttH5FMUAL-MnBr7WQgIIiwKD__1D1X60"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "244",
+    "urn": "urn:li:person:244",
+    "localizedFirstName": "M",
+    "localizedLastName": "Nikhila Reddy",
+    "localizedHeadline": "MBA Candidate @ Woxsen University | Marketing enthusiast | Always a learner",
+    "publicProfileUrl": "https://linkedin.com/in/m-nikhila-reddy-2352b1311",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQE9JUpuYe6h8Q/profile-displayphoto-shrink_800_800/B4EZa0ZRYxHkAg-/0/1746783257042?e=1763596800&v=beta&t=e5O_XqJtViCsZNQDEjMamPJVLCGapDmesEZRunxp1yM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "245",
+    "urn": "urn:li:person:245",
+    "localizedFirstName": "Navya",
+    "localizedLastName": "choudhary",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/navya-choudhary-619a72251",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "246",
+    "urn": "urn:li:person:246",
+    "localizedFirstName": "Lohith",
+    "localizedLastName": "Peethala",
+    "localizedHeadline": "MBA | Marketing | Candidate, Class of 2026 | Woxsen University | Freelancer | Video Editor | Affiliate Marketer | Tantra operations club | Head creatives |",
+    "publicProfileUrl": "https://linkedin.com/in/lohith-peethala-aa08aa31a",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEHgGROp7GbSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721713364179?e=1763596800&v=beta&t=i6v-bQJJieXo7UVTghiy8eWx2UjfJsk43Q6rXrnmjwA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "247",
+    "urn": "urn:li:person:247",
+    "localizedFirstName": "Sreeshanth",
+    "localizedLastName": "S",
+    "localizedHeadline": "Software Developer @Exponential AI",
+    "publicProfileUrl": "https://linkedin.com/in/sreeshanth-s-b0a742225",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "248",
+    "urn": "urn:li:person:248",
+    "localizedFirstName": "Dr. Bjorn Espen Eckbo",
+    "localizedLastName": "FinWiz Woxsen",
+    "localizedHeadline": "Finance Club at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/finwiz-woxsen-finance-club",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEigCZQOQSmpQ/profile-displayphoto-shrink_800_800/B4DZRftU8gHkAg-/0/1736772505850?e=1763596800&v=beta&t=AI5CEiwKI8RWOZpMKuibN5Nak2kskiID621XUOZ7tOM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "249",
+    "urn": "urn:li:person:249",
+    "localizedFirstName": "Meghraj",
+    "localizedLastName": "Mukund",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/meghraj-mukund-645a25328",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQELBzIHPj1Zrw/profile-displayphoto-shrink_800_800/B4DZbDxAF7HEAc-/0/1747041125680?e=1763596800&v=beta&t=Z_6GAPJ6EbiiNLDzyPI3WTMpNvgr9Hnp61rNha8Z2lA"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "250",
+    "urn": "urn:li:person:250",
+    "localizedFirstName": "P",
+    "localizedLastName": "Ritwik",
+    "localizedHeadline": "MBA'23 | Human Resources Management | Marketing Management | Strategic Planning | Woxsen School of Business",
+    "publicProfileUrl": "https://linkedin.com/in/p-ritwik",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/C5603AQFOePxtQFh36Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636047400333?e=1763596800&v=beta&t=4XECoBsk3B0nGfnEld-Sp8QhkMh-yWrma06_gkvx5eo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "251",
+    "urn": "urn:li:person:251",
+    "localizedFirstName": "Shambhavi",
+    "localizedLastName": "Koyyada",
+    "localizedHeadline": "BBA candidate of 2023|Woxsen university| entrepreneurship development",
+    "publicProfileUrl": "https://linkedin.com/in/shambhavi-koyyada-558b971ba",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "252",
+    "urn": "urn:li:person:252",
+    "localizedFirstName": "Soumita",
+    "localizedLastName": "Sen",
+    "localizedHeadline": "Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/soumitasena",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQGQuYZr3sekGw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722934963875?e=1763596800&v=beta&t=NQ-561sTpBDRsSUOdt9yc3Re66ptKDH5DCTassRUKZU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "253",
+    "urn": "urn:li:person:253",
+    "localizedFirstName": "Abhinav",
+    "localizedLastName": "Yalamanchili",
+    "localizedHeadline": "CS Student at Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/abhinav-yalamanchili-5b3b28286",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "254",
+    "urn": "urn:li:person:254",
+    "localizedFirstName": "Vandana",
+    "localizedLastName": "Uppal",
+    "localizedHeadline": "Studying at Pearl University",
+    "publicProfileUrl": "https://linkedin.com/in/vandanauppall",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQEM2z-z1B7wQQ/profile-displayphoto-crop_800_800/B56ZhAgnn3HUAI-/0/1753428950109?e=1763596800&v=beta&t=jSR0rX_XacIkL7L5E7ne8435QIzSC8jdsgIJrdcCYkM"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "255",
+    "urn": "urn:li:person:255",
+    "localizedFirstName": "Sravani",
+    "localizedLastName": "CH",
+    "localizedHeadline": "Student at Woxsen University.",
+    "publicProfileUrl": "https://linkedin.com/in/sr-ch",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQFAA6kPcaPLww/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721585061713?e=1763596800&v=beta&t=rgX4OVpYHzQ4mzftjPtK4XDOckLcQawWq_zdYqwQ3FE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "256",
+    "urn": "urn:li:person:256",
+    "localizedFirstName": "Abhigna",
+    "localizedLastName": "Sai",
+    "localizedHeadline": "Student at Woxsen University | CSE-AI&ML | WOUâ€™29 |",
+    "publicProfileUrl": "https://linkedin.com/in/abhigna-sai",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "257",
+    "urn": "urn:li:person:257",
+    "localizedFirstName": "Harsh",
+    "localizedLastName": "Jain",
+    "localizedHeadline": "Student at Woxsen University,Hyderabad",
+    "publicProfileUrl": "https://linkedin.com/in/harsh-jain-682186325",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHhwjK-U43A_Q/profile-displayphoto-crop_800_800/B56Zj5pGQNIAAQ-/0/1756534957739?e=1763596800&v=beta&t=Jj1Ph-PV6hS9P64SjYc3-NSJUzZQi5nL6d5Vc6gpLkI"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "258",
+    "urn": "urn:li:person:258",
+    "localizedFirstName": "Anirudh Sai",
+    "localizedLastName": "Vallabhaneni",
+    "localizedHeadline": "Business associate | service operations | Tech Mahindra | Business management | MBA | Woxsen University",
+    "publicProfileUrl": "https://linkedin.com/in/anirudhsaivallabhaneni",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEHSp0yDetZOg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677959674225?e=1763596800&v=beta&t=zspz7x4FGebTB6RZ1U1XpMUnv_iCJoFRKcnA4qyGjqc"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "259",
+    "urn": "urn:li:person:259",
+    "localizedFirstName": "Mohammed",
+    "localizedLastName": "Mustafa",
+    "localizedHeadline": "Law | Public Speaking | Diplomacy",
+    "publicProfileUrl": "https://linkedin.com/in/mohammed-mustafa-2a3054309",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4D03AQEZJhY9aV5e4A/profile-displayphoto-shrink_800_800/B4DZZ4AD0eGcAg-/0/1745770005744?e=1763596800&v=beta&t=_A43z_V09T-ypQSDeHbv18Lc07VYOAuggbkbs6TZrKE"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "260",
+    "urn": "urn:li:person:260",
+    "localizedFirstName": "VP",
+    "localizedLastName": "Fellows",
+    "localizedHeadline": "Student Initiative I Vice President I Woxsen University I Future You",
+    "publicProfileUrl": "https://linkedin.com/in/vp-fellows-9a2428258",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D4E03AQEygjOTSNDemw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1669782968398?e=1763596800&v=beta&t=z5CIzYaKJAkrgqBFsd-_ogaTZnJ3LMo8H4UkNe0RX3M"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "261",
+    "urn": "urn:li:person:261",
+    "localizedFirstName": "Yashwanth",
+    "localizedLastName": "Sankaranarayanan",
+    "localizedHeadline": "Student at Woxsen university",
+    "publicProfileUrl": "https://linkedin.com/in/yashwanth-sankaranarayanan-238820249",
+    "profilePicture": {
+      "displayImage~": {
+        "elements": [
+          {
+            "identifiers": [
+              {
+                "identifier": "https://media.licdn.com/dms/image/v2/D5603AQHrwN-S1om5nA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1676603243735?e=1763596800&v=beta&t=75oAvqgh0peJF8Ank5kAaEDrl6FHNABTfJzvJi9x2iU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
