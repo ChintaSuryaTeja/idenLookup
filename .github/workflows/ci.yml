@@ -36,8 +36,8 @@ jobs:
         run: |
           source venv/bin/activate
           python - <<EOF
-print("Backend validation: OK")
-EOF
+          print("Backend validation: OK")
+          EOF
 
       # 5) Setup Node (Frontend)
       - name: Set up Node
