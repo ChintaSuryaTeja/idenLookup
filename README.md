@@ -68,7 +68,6 @@ After this step, click on your local port link available in the terminal to acce
 Create a `.env` file inside the **Backend** folder with the following keys:
 ```
 LINKEDIN_EMAIL=your-email@example.com
-
 LINKEDIN_PASSWORD=your-password
 ALLOW_AUTOMATED_LOGIN=True
 GOOGLE_API_KEY=your-google-api-key
