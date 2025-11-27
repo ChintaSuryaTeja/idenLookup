@@ -1,0 +1,843 @@
+2025-11-26 22:21:19,530 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:21:21,759 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:21:22,835 - INFO - Cookies loaded.
+2025-11-26 22:21:25,226 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:21:29,217 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 22:21:29,217 - INFO - Waiting for manual login...
+2025-11-26 22:33:05,016 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:33:06,221 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:33:07,275 - INFO - Cookies loaded.
+2025-11-26 22:33:09,648 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:33:16,218 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:33:16,218 - INFO - Waiting for manual login...
+2025-11-26 22:35:35,380 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:35:36,582 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:35:37,525 - INFO - Cookies loaded.
+2025-11-26 22:35:39,904 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:35:45,996 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:35:45,997 - INFO - Waiting for manual login...
+2025-11-26 22:38:00,175 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:38:01,442 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:38:02,472 - INFO - Cookies loaded.
+2025-11-26 22:38:05,066 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:38:11,443 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:38:11,443 - INFO - Waiting for manual login...
+2025-11-26 22:43:36,144 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:43:37,362 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:43:38,424 - INFO - Cookies loaded.
+2025-11-26 22:43:40,807 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:43:46,872 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:43:46,873 - INFO - Waiting for manual login...
+2025-11-26 22:52:45,000 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:52:45,198 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:52:45,198 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:52:45,201 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:52:45,208 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:52:45,211 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:52:46,395 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:52:46,780 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:52:46,844 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:52:46,912 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:52:46,937 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:52:46,943 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:52:49,237 - INFO - Cookies loaded.
+2025-11-26 22:52:49,260 - INFO - Cookies loaded.
+2025-11-26 22:52:49,272 - INFO - Cookies loaded.
+2025-11-26 22:52:49,306 - INFO - Cookies loaded.
+2025-11-26 22:52:49,309 - INFO - Cookies loaded.
+2025-11-26 22:52:49,326 - INFO - Cookies loaded.
+2025-11-26 22:52:51,648 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:52:51,678 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:52:51,711 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:52:51,726 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:52:51,738 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:52:51,775 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:53:03,429 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:53:03,429 - INFO - Waiting for manual login...
+2025-11-26 22:53:03,583 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:53:03,584 - INFO - Waiting for manual login...
+2025-11-26 22:53:04,378 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:53:04,378 - INFO - Waiting for manual login...
+2025-11-26 22:53:04,697 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:53:04,698 - INFO - Waiting for manual login...
+2025-11-26 22:53:04,983 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:53:04,983 - INFO - Waiting for manual login...
+2025-11-26 22:53:05,067 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:53:05,067 - INFO - Waiting for manual login...
+2025-11-26 22:54:09,554 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 22:54:10,848 - INFO - Chrome WebDriver initialized.
+2025-11-26 22:54:12,256 - INFO - Cookies loaded.
+2025-11-26 22:54:14,641 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 22:54:20,836 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 22:54:20,837 - INFO - Waiting for manual login...
+2025-11-26 22:56:40,157 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:01:01,016 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:01:02,332 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:01:03,345 - INFO - Cookies loaded.
+2025-11-26 23:01:05,725 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:01:11,989 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 23:01:11,990 - INFO - Waiting for manual login...
+2025-11-26 23:01:24,898 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:01:26,143 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:01:27,071 - INFO - Cookies loaded.
+2025-11-26 23:01:29,448 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:01:35,800 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 23:01:35,800 - INFO - Waiting for manual login...
+2025-11-26 23:01:39,499 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:01:40,723 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:01:41,754 - INFO - Cookies loaded.
+2025-11-26 23:01:44,141 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:01:50,160 - WARNING - Automated login failed: Could not find email/username field
+2025-11-26 23:01:50,160 - INFO - Waiting for manual login...
+2025-11-26 23:05:05,755 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:05:06,968 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:05:08,004 - INFO - Cookies loaded.
+2025-11-26 23:05:10,398 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:05:29,024 - WARNING - Automated login failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:05:29,024 - INFO - Waiting for manual login...
+2025-11-26 23:07:21,367 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:07:30,263 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:08:58,758 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:08:58,930 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:08:58,937 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:09:09,348 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:11:45,920 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:11:47,217 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:11:48,208 - INFO - Cookies loaded.
+2025-11-26 23:11:50,582 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:11:53,681 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:11:53,683 - INFO - Waiting for manual login...
+2025-11-26 23:11:53,727 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:13:21,664 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:13:21,872 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:13:22,957 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:13:23,180 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:13:24,226 - INFO - Cookies loaded.
+2025-11-26 23:13:24,239 - INFO - Cookies loaded.
+2025-11-26 23:13:26,626 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:13:27,248 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:13:30,793 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:13:30,794 - INFO - Waiting for manual login...
+2025-11-26 23:13:31,411 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:13:31,412 - INFO - Waiting for manual login...
+2025-11-26 23:16:10,864 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:16:12,069 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:16:12,999 - INFO - Cookies loaded.
+2025-11-26 23:16:15,382 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:16:18,694 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:16:18,695 - INFO - Waiting for manual login...
+2025-11-26 23:16:18,744 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:16:34,801 - INFO - Profile extracted: Ummadi Raghuram Reddy
+2025-11-26 23:16:34,816 - INFO - Preprocessed text -> 163 lines.
+2025-11-26 23:16:34,817 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:16:48,707 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:16:48,708 - INFO - Creating final Gemini summary...
+2025-11-26 23:17:12,820 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_231634\final_summary.json
+2025-11-26 23:17:12,820 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_231634
+2025-11-26 23:18:19,708 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:18:21,048 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:18:21,991 - INFO - Cookies loaded.
+2025-11-26 23:18:24,414 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:18:27,882 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:18:27,883 - INFO - Waiting for manual login...
+2025-11-26 23:18:27,938 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:18:44,373 - INFO - Profile extracted: Ummadi Raghuram Reddy
+2025-11-26 23:18:44,392 - INFO - Preprocessed text -> 163 lines.
+2025-11-26 23:18:44,392 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:19:09,740 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:19:09,740 - INFO - Creating final Gemini summary...
+2025-11-26 23:19:37,381 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_231844\final_summary.json
+2025-11-26 23:19:37,382 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_231844
+2025-11-26 23:20:37,105 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:20:51,635 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:21:13,017 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:21:14,251 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:21:15,322 - INFO - Cookies loaded.
+2025-11-26 23:21:17,711 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:21:21,373 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:21:21,375 - INFO - Waiting for manual login...
+2025-11-26 23:21:21,461 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:21:38,542 - INFO - Profile extracted: Ummadi Raghuram Reddy
+2025-11-26 23:21:38,555 - INFO - Preprocessed text -> 165 lines.
+2025-11-26 23:21:38,556 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:21:53,075 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:21:53,076 - INFO - Creating final Gemini summary...
+2025-11-26 23:22:27,003 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_232138\final_summary.json
+2025-11-26 23:22:27,004 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_232138
+2025-11-26 23:23:56,033 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:23:57,769 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:23:58,749 - INFO - Cookies loaded.
+2025-11-26 23:24:01,380 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:24:04,480 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:24:04,481 - INFO - Waiting for manual login...
+2025-11-26 23:24:04,551 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:24:21,134 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-26 23:24:21,143 - INFO - Preprocessed text -> 320 lines.
+2025-11-26 23:24:21,144 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:25:04,449 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:25:04,449 - INFO - Creating final Gemini summary...
+2025-11-26 23:25:59,370 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_232421\final_summary.json
+2025-11-26 23:25:59,371 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_232421
+2025-11-26 23:29:19,983 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:29:21,352 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:29:22,358 - INFO - Cookies loaded.
+2025-11-26 23:29:24,798 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:29:28,084 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:29:28,085 - INFO - Waiting for manual login...
+2025-11-26 23:29:28,130 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:29:42,940 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-26 23:29:42,954 - INFO - Preprocessed text -> 320 lines.
+2025-11-26 23:29:42,955 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:30:20,069 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:30:20,070 - INFO - Creating final Gemini summary...
+2025-11-26 23:31:17,587 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_232942\final_summary.json
+2025-11-26 23:31:17,588 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_232942
+2025-11-26 23:31:47,697 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:31:49,147 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:31:50,139 - INFO - Cookies loaded.
+2025-11-26 23:31:52,520 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:31:56,163 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:31:56,163 - INFO - Waiting for manual login...
+2025-11-26 23:31:56,200 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:32:11,569 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-26 23:32:11,583 - INFO - Preprocessed text -> 280 lines.
+2025-11-26 23:32:11,583 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:32:47,866 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:32:47,866 - INFO - Creating final Gemini summary...
+2025-11-26 23:33:51,385 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_233211\final_summary.json
+2025-11-26 23:33:51,386 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_233211
+2025-11-26 23:34:10,102 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:34:11,294 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:34:12,273 - INFO - Cookies loaded.
+2025-11-26 23:34:14,647 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:34:17,937 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:34:17,938 - INFO - Waiting for manual login...
+2025-11-26 23:34:18,007 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:34:33,142 - INFO - Profile extracted: Ummadi Raghuram Reddy
+2025-11-26 23:34:33,161 - INFO - Preprocessed text -> 163 lines.
+2025-11-26 23:34:33,162 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:35:09,415 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:35:09,416 - INFO - Creating final Gemini summary...
+2025-11-26 23:35:33,110 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_233433\final_summary.json
+2025-11-26 23:35:33,110 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Ummadi_Raghuram_Reddy_20251126_233433
+2025-11-26 23:36:16,086 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:36:17,378 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:36:18,682 - INFO - Cookies loaded.
+2025-11-26 23:36:21,065 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:36:28,198 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:36:28,199 - INFO - Waiting for manual login...
+2025-11-26 23:36:28,341 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:36:49,550 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-26 23:36:49,573 - INFO - Preprocessed text -> 320 lines.
+2025-11-26 23:36:49,573 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:37:27,430 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:37:27,430 - INFO - Creating final Gemini summary...
+2025-11-26 23:38:14,229 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_233649\final_summary.json
+2025-11-26 23:38:14,229 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_233649
+2025-11-26 23:45:33,742 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:45:34,934 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:45:35,969 - INFO - Cookies loaded.
+2025-11-26 23:45:38,357 - INFO - Attempting automated login via credentials in .env ...
+2025-11-26 23:45:43,586 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-26 23:45:43,587 - INFO - Waiting for manual login...
+2025-11-26 23:45:43,884 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-26 23:46:02,449 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-26 23:46:02,460 - INFO - Preprocessed text -> 320 lines.
+2025-11-26 23:46:02,461 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-26 23:46:35,200 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-26 23:46:35,201 - INFO - Creating final Gemini summary...
+2025-11-26 23:47:29,648 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_234602\final_summary.json
+2025-11-26 23:47:29,649 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251126_234602
+2025-11-26 23:47:34,885 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:47:35,237 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-26 23:47:36,126 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:47:36,569 - INFO - Chrome WebDriver initialized.
+2025-11-26 23:47:37,417 - INFO - Cookies loaded.
+2025-11-26 23:47:37,670 - INFO - Cookies loaded.
+2025-11-27 10:20:21,621 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 10:20:23,301 - INFO - Chrome WebDriver initialized.
+2025-11-27 10:20:24,251 - INFO - Cookies loaded.
+2025-11-27 10:20:26,629 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 10:20:29,810 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 10:20:29,810 - INFO - Waiting for manual login...
+2025-11-27 10:20:29,856 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 10:20:44,870 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-27 10:20:44,886 - INFO - Preprocessed text -> 320 lines.
+2025-11-27 10:20:44,887 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 10:21:24,840 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 10:21:24,842 - INFO - Creating final Gemini summary...
+2025-11-27 10:22:06,395 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251127_102044\final_summary.json
+2025-11-27 10:22:06,396 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251127_102044
+2025-11-27 10:22:30,313 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 10:22:31,527 - INFO - Chrome WebDriver initialized.
+2025-11-27 10:22:32,701 - INFO - Cookies loaded.
+2025-11-27 10:22:35,099 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 10:22:39,938 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 10:22:39,938 - INFO - Waiting for manual login...
+2025-11-27 10:22:40,096 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 10:23:00,337 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-27 10:23:00,348 - INFO - Preprocessed text -> 320 lines.
+2025-11-27 10:23:00,348 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 10:23:40,523 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 10:23:40,523 - INFO - Creating final Gemini summary...
+2025-11-27 10:24:21,368 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251127_102300\final_summary.json
+2025-11-27 10:24:21,369 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251127_102300
+2025-11-27 10:43:45,437 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 10:43:46,675 - INFO - Chrome WebDriver initialized.
+2025-11-27 10:43:47,649 - INFO - Cookies loaded.
+2025-11-27 10:43:50,027 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 10:43:53,564 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 10:43:53,565 - INFO - Waiting for manual login...
+2025-11-27 10:43:53,614 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 10:44:09,584 - INFO - Profile extracted: Pradeep Rajagopal
+2025-11-27 10:44:09,600 - INFO - Preprocessed text -> 320 lines.
+2025-11-27 10:44:09,601 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 10:44:47,077 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 10:44:47,078 - INFO - Creating final Gemini summary...
+2025-11-27 10:45:30,434 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251127_104409\final_summary.json
+2025-11-27 10:45:30,435 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Pradeep_Rajagopal_20251127_104409
+2025-11-27 10:51:10,245 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 10:51:11,454 - INFO - Chrome WebDriver initialized.
+2025-11-27 10:51:12,468 - INFO - Cookies loaded.
+2025-11-27 10:51:14,854 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 10:51:20,291 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 10:51:20,292 - INFO - Waiting for manual login...
+2025-11-27 10:51:20,383 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 10:51:39,373 - INFO - Profile extracted: Madhav Medicherla
+2025-11-27 10:51:39,384 - INFO - Preprocessed text -> 290 lines.
+2025-11-27 10:51:39,385 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 10:52:26,114 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 10:52:26,115 - INFO - Creating final Gemini summary...
+2025-11-27 10:53:24,030 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Madhav_Medicherla_20251127_105139\final_summary.json
+2025-11-27 10:53:24,032 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Madhav_Medicherla_20251127_105139
+2025-11-27 11:11:03,328 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 11:11:04,644 - INFO - Chrome WebDriver initialized.
+2025-11-27 11:11:05,580 - INFO - Cookies loaded.
+2025-11-27 11:11:07,958 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 11:11:11,164 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 11:11:11,165 - INFO - Waiting for manual login...
+2025-11-27 11:11:11,212 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 11:11:27,217 - INFO - Profile extracted: Anand Kakarla
+2025-11-27 11:11:27,233 - INFO - Preprocessed text -> 264 lines.
+2025-11-27 11:11:27,234 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 11:11:59,186 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 11:11:59,187 - INFO - Creating final Gemini summary...
+2025-11-27 11:12:32,788 - INFO - 🔄 Starting posts extraction...
+2025-11-27 11:13:03,970 - INFO - 📝 Extracted 75 posts
+2025-11-27 11:13:04,046 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Anand_Kakarla_20251127_111127\final_summary.json
+2025-11-27 11:13:04,047 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Anand_Kakarla_20251127_111127
+2025-11-27 11:29:08,504 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 11:29:10,189 - INFO - Chrome WebDriver initialized.
+2025-11-27 11:29:11,055 - INFO - Cookies loaded.
+2025-11-27 11:29:13,448 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 11:29:17,016 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 11:29:17,017 - INFO - Waiting for manual login...
+2025-11-27 11:29:17,060 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 11:29:33,366 - INFO - Profile extracted: Alam Vamsidhara Reddy
+2025-11-27 11:29:33,384 - INFO - Preprocessed text -> 272 lines.
+2025-11-27 11:29:33,385 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 11:29:54,959 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 11:29:54,960 - INFO - Creating final Gemini summary...
+2025-11-27 11:30:18,673 - INFO - 🔄 Starting posts extraction...
+2025-11-27 11:30:27,538 - INFO - 📝 Extracted 11 posts
+2025-11-27 11:30:27,542 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Alam_Vamsidhara_Reddy_20251127_112933\final_summary.json
+2025-11-27 11:30:27,543 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Alam_Vamsidhara_Reddy_20251127_112933
+2025-11-27 11:51:06,174 - INFO - Using preferred Gemini model: models/gemini-2.5-pro
+2025-11-27 11:51:07,595 - INFO - Chrome WebDriver initialized.
+2025-11-27 11:51:09,460 - INFO - Cookies loaded.
+2025-11-27 11:51:11,941 - INFO - Attempting automated login via credentials in .env ...
+2025-11-27 11:51:14,918 - WARNING - Automated login failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b496a235
+	0x7ff6b46c2630
+	0x7ff6b44516dd
+	0x7ff6b44aa27e
+	0x7ff6b44aa58c
+	0x7ff6b44fed77
+	0x7ff6b44fbaba
+	0x7ff6b449b0ed
+	0x7ff6b449bf63
+	0x7ff6b4995d60
+	0x7ff6b498fe8a
+	0x7ff6b49b1005
+	0x7ff6b46dd71e
+	0x7ff6b46e4e1f
+	0x7ff6b46cb7c4
+	0x7ff6b46cb97f
+	0x7ff6b46b18e8
+	0x7ffdc46ae8d7
+	0x7ffdc542c53c
+
+2025-11-27 11:51:14,918 - INFO - Waiting for manual login...
+2025-11-27 11:51:14,941 - WARNING - Could not save cookies: [Errno 13] Permission denied: 'C:\\Users\\jumpi\\.linkedin_cookies.json'
+2025-11-27 11:51:31,558 - INFO - Profile extracted: Madhav Medicherla
+2025-11-27 11:51:31,575 - INFO - Preprocessed text -> 292 lines.
+2025-11-27 11:51:31,577 - INFO - Generating Gemini summaries for 1 chunks...
+2025-11-27 11:52:13,506 - INFO - Saved Gemini summary → chunk_1_summary.txt
+2025-11-27 11:52:13,506 - INFO - Creating final Gemini summary...
+2025-11-27 11:53:16,359 - INFO - 🔄 Starting posts extraction...
+2025-11-27 11:53:24,390 - INFO - 📝 Extracted 0 posts
+2025-11-27 11:53:24,392 - INFO - Saved → C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Madhav_Medicherla_20251127_115131\final_summary.json
+2025-11-27 11:53:24,394 - INFO - Saved activity posts to activity_posts.json
+2025-11-27 11:53:24,394 - INFO - ✅ Completed successfully. All outputs saved in: C:\Users\jumpi\OneDrive\Desktop\Project\Backend\Madhav_Medicherla_20251127_115131

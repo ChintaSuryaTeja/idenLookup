@@ -13,6 +13,8 @@ export default function Dashboard() {
 
   // Load results dynamically (fixes refresh issue)
   const [recentResults, setRecentResults] = useState<any[]>([]);
+  const [isScraping, setIsScraping] = useState(false);
+  const [selectedProfileSummary, setSelectedProfileSummary] = useState<any | null>(null);
 
   useEffect(() => {
     const savedResults = JSON.parse(localStorage.getItem("face_results") || "[]");
@@ -23,6 +25,7 @@ export default function Dashboard() {
       confidence: r.confidence, // FIX: Use backend confidence directly
       date: new Date().toISOString().split("T")[0],
       status: r.confidence >= 50 ? "verified" : "pending", // FIX: Correct status logic
+      profile: r.profile, // Include LinkedIn profile URL
     }));
 
     setRecentResults(mapped);
@@ -81,6 +84,76 @@ export default function Dashboard() {
 
     return matchesSearch && matchesPlatform && matchesConfidence;
   });
+
+  const handleResultClick = async (profileUrl: string, profileName: string) => {
+    try {
+      setIsScraping(true);
+      setSelectedProfileSummary(null);
+
+      // Log what we're sending for debugging
+      console.log("🎯 DASHBOARD CLICK:");
+      console.log("🔗 Profile URL:", profileUrl);
+      console.log("👤 Profile Name:", profileName);
+      console.log("📋 URL Type:", typeof profileUrl);
+
+      // Start the scraping process
+      const startRes = await fetch("http://localhost:8000/scrape-profile", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ profile_url: profileUrl }),
+      });
+
+      const startData = await startRes.json();
+      
+      if (!startData.success) {
+        setSelectedProfileSummary({ error: startData.error });
+        setIsScraping(false);
+        return;
+      }
+
+      // Show that scraping has started
+      setSelectedProfileSummary({ 
+        status: 'started', 
+        message: startData.message,
+        expected_duration: startData.expected_duration 
+      });
+
+      // Poll for results every 10 seconds
+      const pollForResults = async () => {
+        try {
+          const statusRes = await fetch(`http://localhost:8000/scrape-status/${encodeURIComponent(profileName)}`);
+          const statusData = await statusRes.json();
+          
+          if (statusData.success && statusData.status === 'completed') {
+            setSelectedProfileSummary(statusData);
+            setIsScraping(false);
+          } else if (statusData.status === 'error') {
+            setSelectedProfileSummary({ error: statusData.error });
+            setIsScraping(false);
+          } else {
+            // Still in progress, continue polling
+            setSelectedProfileSummary({ 
+              status: statusData.status, 
+              message: statusData.message || 'Scraping in progress...' 
+            });
+            setTimeout(pollForResults, 10000); // Poll again in 10 seconds
+          }
+        } catch (error) {
+          console.error("Error checking scrape status:", error);
+          setSelectedProfileSummary({ error: "Failed to check scraping status" });
+          setIsScraping(false);
+        }
+      };
+
+      // Start polling after a short delay
+      setTimeout(pollForResults, 5000);
+      
+    } catch (error) {
+      console.error("Error starting profile scrape:", error);
+      setSelectedProfileSummary({ error: "Failed to start scraping process" });
+      setIsScraping(false);
+    }
+  };
 
   return (
     <div className="space-y-8">
@@ -174,14 +247,15 @@ export default function Dashboard() {
                 </TableHeader>
                 <TableBody>
                   {filteredResults.map((result, index) => (
-                    <TableRow key={index} className="hover:bg-muted/50">
+                    <TableRow 
+                      key={index} 
+                      className="hover:bg-muted/50 cursor-pointer"
+                      onClick={() => handleResultClick(result.profile, result.name)}
+                    >
                       <TableCell className="font-medium">
-                        <button
-                          onClick={() => navigate("/recognition")}
-                          className="text-left hover:text-primary hover:underline cursor-pointer transition-colors text-sm sm:text-base"
-                        >
+                        <span className="text-left hover:text-primary hover:underline cursor-pointer transition-colors text-sm sm:text-base">
                           {result.name}
-                        </button>
+                        </span>
                       </TableCell>
                       <TableCell className="text-center">
                         <span className="inline-block px-2 py-1 rounded-md bg-muted/30 text-xs sm:text-sm">
@@ -205,6 +279,63 @@ export default function Dashboard() {
 
           {filteredResults.length === 0 && (
             <div className="text-center py-8 text-foreground-muted">No results found matching your filters.</div>
+          )}
+
+          {/* Scraping Status Display */}
+          {selectedProfileSummary && (
+            <div className="mt-4 p-4 rounded-lg bg-muted/40">
+              {selectedProfileSummary.status === 'started' && (
+                <div className="space-y-2">
+                  <h3 className="text-sm font-semibold text-green-600">✅ Scraping Started</h3>
+                  <p className="text-xs text-muted-foreground">{selectedProfileSummary.message}</p>
+                  <p className="text-xs text-muted-foreground">Expected duration: {selectedProfileSummary.expected_duration}</p>
+                  <div className="flex items-center space-x-2">
+                    <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-primary"></div>
+                    <span className="text-xs">Initializing browser and logging in...</span>
+                  </div>
+                </div>
+              )}
+              
+              {selectedProfileSummary.status === 'in_progress' && (
+                <div className="space-y-2">
+                  <h3 className="text-sm font-semibold text-blue-600">🔄 Scraping In Progress</h3>
+                  <p className="text-xs text-muted-foreground">{selectedProfileSummary.message}</p>
+                  <div className="flex items-center space-x-2">
+                    <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-primary"></div>
+                    <span className="text-xs">Extracting profile data and generating AI summary...</span>
+                  </div>
+                </div>
+              )}
+              
+              {selectedProfileSummary.status === 'completed' && selectedProfileSummary.summary && (
+                <div className="space-y-4">
+                  <h3 className="text-sm font-semibold text-green-600">✅ LinkedIn Profile Summary Complete</h3>
+                  <div className="max-h-96 overflow-auto space-y-4">
+                    <div>
+                      <h4 className="text-sm font-medium mb-2">Profile Summary:</h4>
+                      <div className="text-xs whitespace-pre-wrap bg-background p-3 rounded border">
+                        {typeof selectedProfileSummary.summary === 'string' 
+                          ? selectedProfileSummary.summary 
+                          : JSON.stringify(selectedProfileSummary.summary, null, 2)}
+                      </div>
+                    </div>
+                    
+
+                    
+                    <p className="text-xs text-muted-foreground">
+                      Output saved to: {selectedProfileSummary.output_folder}
+                    </p>
+                  </div>
+                </div>
+              )}
+              
+              {selectedProfileSummary.error && (
+                <div className="space-y-2">
+                  <h3 className="text-sm font-semibold text-red-600">❌ Scraping Failed</h3>
+                  <p className="text-xs text-red-500">{selectedProfileSummary.error}</p>
+                </div>
+              )}
+            </div>
           )}
         </CardContent>
       </Card>

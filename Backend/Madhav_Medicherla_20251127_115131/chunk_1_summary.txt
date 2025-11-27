@@ -1,0 +1,216 @@
+{
+  "personal_info": {
+    "name": "Madhav Medicherla",
+    "pronouns": "He/Him",
+    "headline": "Vice President - AI/ML Tech CoE Head at Deloitte",
+    "location": "Hyderabad, Telangana, India",
+    "connections": "500+",
+    "followers": "1,363 followers",
+    "summary": "A dynamic results-driven Digital Transformation leader with over 20 years of experience, in strategic leadership roles at global firms like Deloitte, SS&C, Wells Fargo and GE. Proficient in orchestrating Agentic Hub architectures, delivering scalable multi-agent AI solutions that drive automation, innovation, and tangible business results across global enterprises. Expert in Generative/Edge AI , NLP, LLMs, and data platforms, with proven success driving research-to-product innovation. Combines deep technical leadership, executive stakeholder influence, and platform-scale with product management. Recognized for managing and expanding large-scale SaaS transformations, alongside Enterprise Data Management, Data Integrations & Predictive Data Analytics. Highly capable in defining and executing enterprise-wide data strategies, leading global teams exceeding 500 associates, and overseeing multimillion-dollar annual budgets. Proficient in leveraging advanced Cloud and cutting-edge AI technologies to drive business value, support data-driven decision-making, and cultivate AI-ready talent. A strategic partner adept at stakeholder engagement, driving change in matrix organizations, and ensuring compliance with governance such as SOX, PCI DSS, FISMA, HIPAA, FedRAMP and GDPR in conjunction with ethical AI."
+  },
+  "experience": [
+    {
+      "title": "Vice President-Tech CoE Head",
+      "company": "Deloitte",
+      "employment_type": "Full-time",
+      "start_date": "Aug 2023",
+      "end_date": "Present",
+      "duration": "2 yrs 4 mos",
+      "location": "Hyderabad, Telangana, India",
+      "description": "Leading a team of 100+ members in AI/ML/ITSM in designing cognitive solutions with a strategic vision and roadmap for enterprise-wide SaaS applications (Workday, ADP, ITSM-ServiceNow, Salesforce and Adobe) by integrating Cloud, Blockchain and AI Tech.\n1. Worked on Digital Transformation Projects with C-suite stakeholders to identify and prioritize key IT/ITSM initiatives, aligning technology investments with business goals and achieved a 15% reduction in project delivery timelines through consulting.\n3. Lead Al strategy and applied deep learning tech. that enhanced operating margins by 25% with robust data governance to secure sensitive information and compliance resulting in a 20% improvement in operational efficiency for clients\n4. Conducted data analysis of large datasets and feature engineering to optimize model performance by 20% (NLP, Gen AI)\n5. Established an Agentic Factory ecosystem for centralized governance, resource sharing, and lifecycle management using agents across the organization, resulting in improved consistency, compliance, and reusability of AI assets for clientele.\n6. Transformed customer support and operations through an Agentic Hub, unifying autonomous agents for intelligent case handling, resulting in a 35% reduction in manual workload and enhanced customer satisfaction for one of the global clients.",
+      "skills": [
+        "Regression Models",
+        "OpenAI Products",
+        "and +27 more"
+      ]
+    },
+    {
+      "title": "Senior Director, Wealth & Investment Technologies",
+      "company": "SS&C Technologies",
+      "employment_type": "Full-time",
+      "start_date": "Dec 2016",
+      "end_date": "Aug 2023",
+      "duration": "6 yrs 9 mos",
+      "location": "Greater Hyderabad Area",
+      "description": "Built a team of 350+ members in Product Development, Product Management, Client Onboarding and 24x7 support.\n1. Engaged with executive leadership to align Al that improved Client On-boarding by 30% (Eclipse, OMS, PMS, EMS)\n2. Generated $50 MM USD in revenues with Eclipse by cross and upselling. Supported client base of 1500 across products\n3. Managed critical vendor relationships (Microsoft, AWS, Atlassian, Workday, Oracle, Adobe) including contract negotiation and performance monitoring, ensuring 99% compliance with SLAs and optimizing SaaS licensing costs by $25K annually\n4. Managed an annual IT budget of $6 MM USD for staff, enterprise applications, ensuring cost-effectiveness and ROI\n5. Oversaw day-to-day site operational activities, ensuring BCP, physical security, and compliance with zero non-compliances",
+      "skills": [
+        "GitHub",
+        "OpenAI Products",
+        "and +20 more"
+      ]
+    },
+    {
+      "title": "Head of Technology",
+      "company": "Shore Infotech",
+      "employment_type": "Full-time",
+      "start_date": "Oct 2015",
+      "end_date": "Aug 2016",
+      "duration": "11 mos",
+      "location": "Greater Hyderabad Area",
+      "description": "Lead the Tech teams of 500+ members in managing the company\u2019s IP product portfolio and grew the revenues by 30%\n1. Delivered end-to-end BI and data warehousing solutions for financial services clients through adoption of cloud and ITSM with a 30% increase in solution delivery. Built enterprise BCD product and scaled the offerings with increased revenues.",
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Cascading Style Sheets (CSS)",
+        "and +10 more"
+      ]
+    },
+    {
+      "title": "Assistant VicePresident, Technology Manager",
+      "company": "Wells Fargo India Solutions",
+      "employment_type": null,
+      "start_date": "Apr 2008",
+      "end_date": "Oct 2015",
+      "duration": "7 yrs 7 mos",
+      "location": null,
+      "description": "Designed systems in Enterprise Risk, Market Risk, Credit Risk, Wealth Management, Brokerage in adhering to the BASEL\n1. Demonstrated success in leading cross-functional teams and scaling operations in a multinational environment, driving operations at multiple cities in India and scaled the team to 100+ while exceeding delivery targets by 15%.\n2. Developed reusable data assets and frameworks, accelerating time-to-market for analytics solutions in enabling self-service analytics and data visualization capabilities, reducing delivery intervals by 40%.\n3. Spearheaded the design and implementation of enterprise data and integration platforms ensuring compliance and operationalization of new business services though Hadoop, Spark and Scala\n4. Partnered with HR and global executives to drive leadership development, succession planning, and employee retention strategies, mentoring 15+ local leaders and high-potential employees",
+      "skills": [
+        "Spring Framework",
+        "Teradata",
+        "and +8 more"
+      ]
+    },
+    {
+      "title": "Global NPI Program Manager, Technical Specialist",
+      "company": null,
+      "employment_type": null,
+      "start_date": "Apr 1999",
+      "end_date": "Apr 2008",
+      "duration": "9 yrs 1 mo",
+      "location": null,
+      "description": "Acted as a subject matter expert in delivering the Product to the market with greater sense of urgency by mastering New Product Introduction (NPI) Process and lead a team of 150+. Accountable for bringing People, Process, Tools and Technology together with e\ufb00ective collaboration of Sales, Distribution, Finance, Engineering, in making the product live to market with deep functional and process knowledge in E-Business, CRM, Supply Chain, Data Warehousing and Business Intelligence applications.",
+      "skills": [
+        "Microsoft SQL Server",
+        "Oracle Applications",
+        "and +4 more"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Management Ahmedabad",
+      "degree": "Doctor of Philosophy - Ph.D",
+      "field_of_study": "Leadership and Strategy",
+      "start_year": "2023",
+      "end_year": "2027"
+    },
+    {
+      "institution": null,
+      "degree": "Leadership and Change Management",
+      "field_of_study": null,
+      "start_year": "2018",
+      "end_year": "2018"
+    }
+  ],
+  "skills": {
+    "top_skills": [
+      "Microsoft Power BI",
+      "Snowflake",
+      "Artificial Intelligence (AI)",
+      "Python (Programming Language)",
+      "Statistical Data Analysis"
+    ],
+    "other_skills": [
+      "Vibe Coding (Lovable, Claude, Cursor, Replit, Bolt, Claude, Cursor, Replit, Bolt, n8n)",
+      "Payment Card Industry Data Security Standard (PCI DSS)"
+    ]
+  },
+  "licenses_certifications": [
+    {
+      "name": "Amazon Web Services for Data Science",
+      "issuing_organization": "Lynda.com",
+      "issue_date": "Oct 2016",
+      "expiration_date": "Oct 2016",
+      "credential_id": "E02E54"
+    }
+  ],
+  "volunteering": [
+    {
+      "role": "GE Elfun Lead",
+      "organization": "GE Elfun",
+      "start_date": "Jan 2005",
+      "end_date": "Jan 2007",
+      "duration": "2 yrs 1 mo",
+      "cause": "Children",
+      "description": "Computer Education to Blind Girls and Wax Candle Making"
+    }
+  ],
+  "recommendations": {
+    "received": [
+      {
+        "recommender_name": "Sunil K Nagpal (PMP)",
+        "recommender_headline": "Founder @ LinkageIT | Helping Customers To Scale via Niche IT Skilled Staff Augmentation | Outsourcing Specialist | Sales Professional",
+        "date": "November 27, 2009",
+        "relationship": "Sunil reported directly to Madhav",
+        "text": "Madhav is an innovative and focused project delivery manager with excellent resource management skills. As a leader, he is very determined and sensible to get any job done. He is extremely calm with can-do attitude, which works for him and the team. His resource handling skills are also strong as he is never superficial. It was a great pleasure to work with him."
+      },
+      {
+        "recommender_name": "Vivekananda Chintala",
+        "recommender_headline": "Principal Software Engineer",
+        "date": "June 6, 2008",
+        "relationship": "Vivekananda worked with on the same team",
+        "text": "Madhav is hard working person with lots of expertise in GE industrial tools. He has very good interpersonal skills."
+      }
+    ],
+    "given": [
+      {
+        "recipient_name": "Sunil",
+        "date": "December 3, 2009",
+        "relationship": "but they were at different companies",
+        "text": "Sunil is very dedicated and had a great skill of coordinating the Project activities. He is very good at Project Management that was obvious when we both working on the project. He brings lot of Niche Filenet experience with him which payed off on our project. He is very adaptive to the change and he get along with the teams well. I wish him all the best."
+      },
+      {
+        "recipient_name": "Vivek",
+        "date": "July 10, 2008",
+        "relationship": "was senior to but didn't manage directly",
+        "text": "Vivek is hard working, sinicere and honest person. He is a very good team player."
+      }
+    ]
+  },
+  "activity": [
+    {
+      "type": "comment",
+      "date": "1mo",
+      "text": "Congratulations! \ud83c\udf89"
+    },
+    {
+      "type": "comment",
+      "date": "2mo",
+      "text": "Adam, All the best in your future endeavors, best moments spent with you at Orlando and London, you are one of the best in FI in the industry I am certain that you create the impact where ever you are...Keep in touch.."
+    },
+    {
+      "type": "comment",
+      "date": "3mo",
+      "text": "Yes, you truly made all of us proud...Congratulations on your Masters degree from a prestigious educational organization..."
+    }
+  ],
+  "courses": [
+    {
+      "name": "GE Six Sigma Functional Blackbelt",
+      "associated_with": "GE"
+    }
+  ],
+  "languages": [
+    "Chinese-Mandarin"
+  ],
+  "interests": {
+    "top_voices": [
+      "Pradeep Rao"
+    ],
+    "companies": [
+      "Oracle",
+      "Microsoft"
+    ],
+    "groups": [
+      "\ud83e\uddbe Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision, Robotics, Gen AI, GPT",
+      "AI/ML, Gen AI ,Data Science. SAP BI/ Analytics Cloud /Tableau /Power BI"
+    ],
+    "newsletters": [
+      "From the Strategy Room",
+      "Beyond Borders"
+    ],
+    "schools": [
+      "Jawaharlal Nehru Technological University",
+      "Great Lakes Institute of Management Gurgaon"
+    ]
+  }
+}
