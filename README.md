@@ -1,4 +1,4 @@
-#  Identity_Lookup  
+#  Identity Lookup  
 ### AI-Powered LinkedIn Identity Matching System
 
 Identity_Lookup is a production-grade AI system that identifies probable LinkedIn profiles from a single face image.  
